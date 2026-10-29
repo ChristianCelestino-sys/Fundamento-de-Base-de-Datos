@@ -4,8 +4,8 @@
 
 **Asignatura:** Bases de datos  
 **Unidad:** 1. Introducción a las bases de datos  
-**Estudiante:** [Tu nombre completo]  
-**Docente:** [Nombre del docente]  
+**Estudiante:** [Christian Ivan Celestino Chavez]  
+**Docente:** [Ruben Miguel Riojas Rodriguez]  
 **Institución:** Tecnológico Superior de Monclova  
 **Fecha de entrega:** 2 de noviembre de 2026
 
@@ -80,22 +80,6 @@ Esta actividad aborda la clasificación de las bases de datos, la arquitectura A
 
 ---
 
-## 📁 Estructura del repositorio
-
-```text
-Introduccion-Bases-de-Datos/
-│
-├── README.md
-│
-├── Tarea_1_1_Fundamentos_Objetivos_Modelos_BD.pdf
-│
-└── Tarea_1_2_Clasificacion_Arquitecturas_ANSI_SPARC_SGBD.pdf
-```
-
-> **Nota:** Los archivos PDF deben subirse al repositorio para que aparezcan en la estructura y puedan consultarse desde GitHub.
-
----
-
 ## 📖 Conclusión general
 
 El estudio de los fundamentos de las bases de datos permite comprender la importancia de organizar, almacenar, consultar y proteger la información. Asimismo, conocer los distintos modelos y clasificaciones facilita identificar qué tipo de base de datos resulta adecuado para cada necesidad.
@@ -110,7 +94,3 @@ Por otra parte, la arquitectura ANSI/SPARC ayuda a entender la separación entre
 - Elmasri, R., & Navathe, S. B. (2016). *Fundamentals of Database Systems* (7.ª ed.). Pearson.
 
 ---
-
-**Repositorio académico:** Introducción a las bases de datos  
-**Unidad:** 1  
-**Estado:** Actividades realizadas y pendientes de agregar los enlaces definitivos de los videos.
