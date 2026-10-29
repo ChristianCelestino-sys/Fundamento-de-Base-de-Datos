@@ -15,7 +15,7 @@ Investigación sobre los conceptos fundamentales, objetivos, áreas de aplicaci�
 [📄 Abrir Tarea 1.1 en PDF](./PDF/Tarea_1_1_Fundamentos_Objetivos_Modelos_BD.pdf)
 
 **📊 Diagrama conceptual
-🔗 Abrir o descargar el mapa conceptual(./Mapa Conceptual.svg)
+[🔗 Abrir o descargar el mapa conceptual](./Mapa Conceptual.svg)
 
 ## 🎥 Video explicativo
 
