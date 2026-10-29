@@ -34,3 +34,14 @@ Investigación sobre los conceptos fundamentales, objetivos, áreas de aplicaci�
 
 [Ver video de la Tarea 1.1](PEGA_AQUI_EL_ENLACE_DEL_VIDEO)
 
+## 📚 Bibliografía
+
+Codd, E. F. (1970). A relational model of data for large shared data banks. *Communications of the ACM, 13*(6), 377–387. https://doi.org/10.1145/362384.362685
+
+Date, C. J. (2003). *An introduction to database systems* (8th ed.). Addison-Wesley.
+
+Elmasri, R., & Navathe, S. B. (2016). *Fundamentals of database systems* (7th ed.). Pearson.
+
+Silberschatz, A., Korth, H. F., & Sudarshan, S. (2019). *Database system concepts* (7th ed.). McGraw-Hill Education.
+
+Universidad de Puerto Rico, Recinto Universitario de Mayagüez. (s. f.). *APA 7: Guía de referencias*. https://libguides.uprm.edu/apa_es/referencias
