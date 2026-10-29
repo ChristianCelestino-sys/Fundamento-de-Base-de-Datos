@@ -35,7 +35,7 @@ En esta actividad se investigan los conceptos fundamentales relacionados con las
 **Archivo de la actividad:**
 📄 Archivo PDF:
 
-📖 Abrir Tarea 1.1 — Fundamentos, objetivos y modelos
+📖tarea_1_1_fundamentos_y_modelos_bd.pdf
 
 🎥 [Ver video de la Tarea 1.1](PEGA_AQUI_EL_ENLACE_DEL_VIDEO)
 
