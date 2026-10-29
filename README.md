@@ -33,9 +33,9 @@ En esta actividad se investigan los conceptos fundamentales relacionados con las
 - Mapa conceptual de los fundamentos de las bases de datos.
 
 **Archivo de la actividad:**
+📄 Archivo PDF:
 
-./Tarea_1_1_Fundamentos_Objetivos_Modelos_BD.pdf
-**Video de explicación:**
+📖 Abrir Tarea 1.1 — Fundamentos, objetivos y modelos
 
 🎥 [Ver video de la Tarea 1.1](PEGA_AQUI_EL_ENLACE_DEL_VIDEO)
 
