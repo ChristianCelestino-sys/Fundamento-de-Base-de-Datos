@@ -13,7 +13,6 @@ Investigación sobre los conceptos fundamentales, objetivos, áreas de aplicaci�
 ## 📄 Documento PDF
 
 [📄 Abrir Tarea 1.1 en PDF](./PDF/Tarea_1_1_Fundamentos_Objetivos_Modelos_BD.pdf)
-
 ## 🎥 Video explicativo
 
 [Ver video de la Tarea 1.1](PEGA_AQUI_EL_ENLACE_DEL_VIDEO)
