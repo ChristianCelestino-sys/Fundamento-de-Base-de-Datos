@@ -1,4 +1,4 @@
-# 📚 Unidad 1. Introducción a las bases de datos
+# 📚 Unidad 1
 
 ## 📌 Información general
 
