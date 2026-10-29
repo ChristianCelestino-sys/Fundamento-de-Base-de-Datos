@@ -16,7 +16,8 @@ Investigación sobre los conceptos fundamentales, objetivos, áreas de aplicaci�
 
 ## 📊 Diagrama conceptual
 
-![Mapa conceptual de bases de datos](./Diagrama/Mapa%20_Conceptual.svg)
+![Mapa conceptual de bases de datos](./Diagrama/Mapa%20Conceptual.svg)
+
 
 ## 🎥 Video explicativo
 
