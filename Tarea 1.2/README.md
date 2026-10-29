@@ -12,7 +12,7 @@ Investigación sobre la clasificación de las bases de datos, la arquitectura AN
 
 ## 📄 Documento PDF
 
-[Abrir o descargar la investigación](./PDF/Tarea_1_2_Clasificacion_Arquitecturas_ANSI_SPARC_SGBD.pdf)
+[Abri la investigación](./PDF/Tarea_1_2_Clasificacion_Arquitecturas_ANSI_SPARC_SGBD.pdf)
 
 ## 🎥 Video explicativo
 
