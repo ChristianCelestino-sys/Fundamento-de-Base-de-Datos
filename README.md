@@ -3,7 +3,7 @@
 ## 📌 Información general
 
 **Asignatura:** Bases de datos  
-**Unidad:** 1. Introducción a las bases de datos  
+**Tema:** Introducción a las bases de datos  
 **Estudiante:** [Christian Ivan Celestino Chavez]  
 **Docente:** [Ruben Miguel Riojas Rodriguez]  
 **Institución:** Tecnológico Superior de Monclova  
@@ -34,8 +34,7 @@ En esta actividad se investigan los conceptos fundamentales relacionados con las
 
 **Archivo de la actividad:**
 
-📄 `Tarea_1_1_Fundamentos_Objetivos_Modelos_BD.pdf`
-
+./Tarea_1_1_Fundamentos_Objetivos_Modelos_BD.pdf
 **Video de explicación:**
 
 🎥 [Ver video de la Tarea 1.1](PEGA_AQUI_EL_ENLACE_DEL_VIDEO)
