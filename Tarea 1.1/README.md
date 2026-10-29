@@ -10,20 +10,7 @@ Investigación sobre los conceptos fundamentales, objetivos, áreas de aplicaci�
 - **Diagramas:** mapa conceptual de los fundamentos de las bases de datos.
 - **PDF:** documento completo de la investigación.
 
-## 📄 Documento PDF
-
-[📄 Abrir Tarea 1.1 en PDF](./PDF/Tarea_1_1_Fundamentos_Objetivos_Modelos_BD.pdf)
-
-## 📊 Diagrama conceptual
-
-![Mapa conceptual de bases de datos](./Diagrama/Mapa%20Conceptual.svg)
-
-
-## 🎥 Video explicativo
-
-[Ver video de la Tarea 1.1](PEGA_AQUI_EL_ENLACE_DEL_VIDEO)
-
-## 📚 Temas
+  ## 📚 Temas
 
 1. Conceptos fundamentales.
 2. Objetivos y funciones.
@@ -31,6 +18,19 @@ Investigación sobre los conceptos fundamentales, objetivos, áreas de aplicaci�
 4. Modelos de bases de datos.
 5. Comparación de modelos.
 
----
-**Unidad:** 1  
-**Actividad:** 1.1
+## 📄 Documento PDF
+
+[📄 Abrir Tarea 1.1 en PDF](./PDF/Tarea_1_1_Fundamentos_Objetivos_Modelos_BD.pdf)
+
+## 📊 Diagrama conceptual
+
+![Mapa conceptual de bases de datos](./Diagrama/MapaConceptual.svg)
+
+🧠 Diagrama conceptual
+
+[🔗 Abrir mapa conceptual](./Diagrama/CuadroComparativo.svg)
+
+## 🎥 Video explicativo
+
+[Ver video de la Tarea 1.1](PEGA_AQUI_EL_ENLACE_DEL_VIDEO)
+
