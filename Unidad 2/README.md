@@ -26,7 +26,7 @@ Unidad-2/
 ```
 
 ## 👨‍💻 Autor
-Estudiante de la asignatura de Diseño de Bases de Datos.
+Christian Iván Celestino Chávez.
 
 ## 📄 Licencia
 Este repositorio tiene fines académicos y educativos.
