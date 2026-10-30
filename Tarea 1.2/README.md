@@ -25,6 +25,7 @@ El cuadro sinóptico presenta la clasificación de las bases de datos según tre
 ### Vista previa
 
 ![Cuadro sinóptico de clasificación de bases de datos](./Diagramas/Cuadro%20Sinoptico.svg)
+[📂 Abrir archivo editable (.drawio)](./Diagramas/Cuadro_Sinoptico_Clasificacion_BD.drawio)
 
 ---
 
@@ -41,6 +42,7 @@ Esta arquitectura permite separar las vistas de los usuarios de los detalles ló
 ### Diagrama
 
 ![Arquitectura de tres niveles ANSI/SPARC](./Diagramas/Arquitectura_ANSI_SPARC.svg)
+[📂 Abrir archivo editable (.drawio)](./Diagramas/Arquitectura_Tres_Niveles_ANSI_SPARC.drawio)
 ---
 
 ## ⚙️ 4. Arquitectura funcional interna del SGBD
@@ -66,6 +68,7 @@ Sus componentes principales se organizan en dos subsistemas:
 ### Diagrama
 
 ![Arquitectura funcional interna del SGBD](./Diagramas/Arquitectura_Funcional_SGBD.svg)
+[📂 Abrir archivo editable (.drawio)](./Diagramas/Arquitectura_Funcional_SGBD.drawio)
 
 ---
 
