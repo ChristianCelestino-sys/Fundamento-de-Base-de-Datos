@@ -6,10 +6,11 @@ En esta unidad se estudia el diseño conceptual de bases de datos mediante el mo
 ## 🎯 Competencia
 Conocer y aplicar el modelo Entidad-Relación (E-R) para el diseño conceptual de bases de datos.
 
-## 📂 Contenido de la unidad
+## 📂 Unidad 2. Diseño de Bases de Datos con el Modelo E-R
 
-En este repositorio se encuentran los materiales, diagramas y documentos correspondientes a las actividades de la Unidad 2.
-
+- 🔹 [Tarea 2.1. Modelado conceptual E-R y E-R Extendido de un caso real](./Tarea%202.1/README.md)
+- 🟩 [Tarea 2.2. Transición de diagrama E-R a notación UML](./Tarea%202.2/README.md)
+  
 ## 🛠️ Herramientas utilizadas
 - **Draw.io:** Elaboración y edición de diagramas.
 - **GitHub:** Almacenamiento y organización de archivos del proyecto.
