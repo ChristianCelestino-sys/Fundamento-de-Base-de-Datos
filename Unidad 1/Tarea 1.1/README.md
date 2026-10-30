@@ -25,6 +25,7 @@ Investigación sobre los conceptos fundamentales, objetivos, áreas de aplicaci�
 ## 📊 Diagrama conceptual
 
 ![Mapa conceptual de bases de datos](./Diagrama/Mapa%20Conceptual.svg)
+
 [📂 Abrir mapa conceptual editable en Draw.io](./Diagrama/Mapa%20Conceptual.drawio)
 
 ## Cuadro Comparativo
