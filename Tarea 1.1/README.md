@@ -30,7 +30,8 @@ Investigación sobre los conceptos fundamentales, objetivos, áreas de aplicaci�
 🧠 Diagrama conceptual
 
 [🔗 Abrir mCuadro Comparativo](./Diagrama/Cuadro%20Comparativo.svg)
-[📂 Abrir cuadro comparativo editable en Draw.io](./Diagrama/Cuadro%20Comparativo.drawio)
+
+[📂 Abrir cuadro comparativo en Draw.io](./Diagrama/Cuadro%20Comparativo.drawio)
 
 ## 🎥 Video explicativo
 
