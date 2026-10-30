@@ -1,36 +1,35 @@
-# 📘 Tarea 2.1. Modelado conceptual E-R y E-R Extendido de un caso real
+\# Tarea 2.1\. Modelado conceptual E-R y E-R Extendido de un caso real 
 
-## 📌 Descripción
-En esta actividad se realiza el diseño conceptual de una base de datos mediante el modelo Entidad-Relación (E-R) y el modelo Entidad-Relación Extendido (E-RE), tomando como referencia un caso real.
+## 📌 Descripción Modelado conceptual de una base de datos para un caso de estudio real (TechMarket Express), aplicando el modelo Entidad-Relación (E-R) y E-R Extendido con reglas de negocio, entidades, atributos y cardinalidades. 
 
-## 🎯 Objetivo
-Diseñar un modelo conceptual de base de datos que represente las entidades, los atributos, las relaciones y las restricciones de un sistema real.
+## 📂 Contenido 
 
-## 📝 Actividades
-- Seleccionar un caso real e identificar el problema que se desea resolver.
-- Describir el contexto del problema y establecer las reglas de negocio.
-- Identificar las entidades y sus atributos.
-- Definir las claves primarias, los atributos compuestos, derivados y multivaluados.
-- Establecer las relaciones, cardinalidades y restricciones de participación.
-- Aplicar conceptos del modelo E-R Extendido, como especialización, generalización, jerarquías y agregación.
-- Elaborar el diagrama conceptual utilizando una herramienta de modelado.
+- \*\*Diccionario de Datos:\*\* descripción detallada de atributos, tipos de datos y restricciones de integridad.
 
-## 🛠️ Herramientas utilizadas
-- **Draw.io:** Diseño de diagramas.
-- **GitHub:** Almacenamiento y publicación de archivos.
-- **PDF:** Elaboración del reporte técnico.
-- **YouTube:** Presentación del video explicativo.
+- \*\*Diagramas:\*\* modelo conceptual E-R y E-R Extendido diseñado en Draw.io.
 
-## 📂 Archivos de la actividad
+- \*\*PDF:\*\* reporte técnico completo con planteamiento, reglas de negocio y justificación de diseño.
 
-- 📄 [Reporte técnico](./Unidad2/PDF/Reporte_Tecnico.pdf)
-- 📊 [Diagrama E-R .drawio](./Unidad 2/Tarea 2.1/Diagrama/Diagrama ER.drawio)
-- 🖼️ [Diagrama E-R en imagen](./Diagramas/Diagrama_ER.png)
-- 📑 [Diagrama E-R en PDF](./Diagramas/Diagrama_ER.pdf)
+## 📚 Temas 
 
-## 🎥 Video explicativo
+1\. Planteamiento del problema y contexto operativo. 
+2\. Identificación y formulación de reglas de negocio. 
+3\. Clasificación de entidades y atributos (simples, compuestos, derivados, multivalorados). 
+4\. Relaciones, cardinalidades y restricciones de participación. 
+5\. Modelo E-R Extendido (especialización/generalización y agregación). 
+6\. Diccionario de datos y normalización. 
 
-[Ver video en YouTube](PEGA_AQUI_EL_ENLACE_DE_TU_VIDEO)
+## 📄 Documento 
+PDF [📄 Abrir Reporte Técnico de la Tarea 2.1 en PDF](./Reporte\_Tecnico\_Tarea\_2\_1.pdf) 
 
-## 📚 Conclusión
-El desarrollo de esta actividad permite comprender la importancia del modelo Entidad-Relación y del modelo Entidad-Relación Extendido en el diseño conceptual de bases de datos, facilitando la identificación y organización de la información de un sistema real.
+## 📊 Diagrama Entidad-Relación (E-R / E-RE) 
+
+![Diagrama ER](./Diagrama/Diagrama%20ER.png) 
+
+[📂 Abrir diagrama editable en Draw.io](./Diagrama/Diagrama%20ER.drawio) 
+
+## 🎥 Video explicativo 
+
+[Ver video de la Tarea 2.1 en YouTube](PEGA\_AQUI\_EL\_ENLACE\_DEL\_VIDEO) 
+
+## 📚 Bibliografía Elmasri, R., &amp; Navathe, S. B. (2016). \*Fundamentals of database systems\* (7th ed.). Pearson. Silberschatz, A., Korth, H. F., &amp; Sudarshan, S. (2019). \*Database system concepts\* (7th ed.). McGraw-Hill Education. Universidad de Puerto Rico, Recinto Universitario de Mayagüez. (s. f.). \*APA 7: Guía de referencias\*. https://libguides.uprm.edu/apa\_es/referencias
