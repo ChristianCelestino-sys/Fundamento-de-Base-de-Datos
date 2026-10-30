@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="eRg6qmDrjMw5frxaqBk5">
+    <mxGraphModel dx="1792" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="main" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#17365D;strokeColor=#17365D;fontColor=#FFFFFF;fontStyle=1;fontSize=18;align=center;verticalAlign=middle;" value="CLASIFICACIÓN DE LAS&lt;br&gt;BASES DE DATOS" vertex="1">
+          <mxGeometry height="100" width="220" x="35" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="var" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9EAF7;strokeColor=#2F75B5;fontColor=#17365D;fontStyle=1;fontSize=14;align=center;verticalAlign=middle;" value="POR VARIABILIDAD&lt;br&gt;DE LOS DATOS" vertex="1">
+          <mxGeometry height="70" width="220" x="330" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="var1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F6FA;strokeColor=#9FBAD2;fontColor=#17365D;fontStyle=1;fontSize=12;align=left;verticalAlign=middle;spacing=8;" value="Estáticas (OLAP / lectura)" vertex="1">
+          <mxGeometry height="60" width="210" x="590" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="var1_detail" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B8C7D9;fontColor=#263746;fontSize=11;align=left;verticalAlign=middle;spacing=8;" value="Consultas y análisis histórico; actualizaciones menos frecuentes; agregaciones complejas.&lt;br&gt;&lt;b&gt;Ejemplos:&lt;/b&gt; data warehouses, data marts e inteligencia de negocios." vertex="1">
+          <mxGeometry height="60" width="600" x="835" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="var2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F6FA;strokeColor=#9FBAD2;fontColor=#17365D;fontStyle=1;fontSize=12;align=left;verticalAlign=middle;spacing=8;" value="Dinámicas (OLTP / lectura y escritura)" vertex="1">
+          <mxGeometry height="60" width="210" x="590" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="var2_detail" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B8C7D9;fontColor=#263746;fontSize=11;align=left;verticalAlign=middle;spacing=8;" value="Inserciones, actualizaciones y eliminaciones frecuentes, normalmente mediante transacciones.&lt;br&gt;&lt;b&gt;Ejemplos:&lt;/b&gt; bancos, puntos de venta, reservas y comercio electrónico." vertex="1">
+          <mxGeometry height="60" width="600" x="835" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="loc" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9EAF7;strokeColor=#2F75B5;fontColor=#17365D;fontStyle=1;fontSize=14;align=center;verticalAlign=middle;" value="POR UBICACIÓN DEL&lt;br&gt;ALMACENAMIENTO" vertex="1">
+          <mxGeometry height="70" width="220" x="330" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="loc1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F6FA;strokeColor=#9FBAD2;fontColor=#17365D;fontStyle=1;fontSize=12;align=left;verticalAlign=middle;spacing=8;" value="Centralizadas" vertex="1">
+          <mxGeometry height="60" width="210" x="590" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="loc1_detail" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B8C7D9;fontColor=#263746;fontSize=11;align=left;verticalAlign=middle;spacing=8;" value="Datos y servicio principal de gestión concentrados en un servidor o ubicación.&lt;br&gt;&lt;b&gt;Ejemplos:&lt;/b&gt; servidores corporativos locales y sistemas centralizados." vertex="1">
+          <mxGeometry height="60" width="600" x="835" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="loc2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F6FA;strokeColor=#9FBAD2;fontColor=#17365D;fontStyle=1;fontSize=12;align=left;verticalAlign=middle;spacing=8;" value="Distribuidas" vertex="1">
+          <mxGeometry height="60" width="210" x="590" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="loc2_detail" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B8C7D9;fontColor=#263746;fontSize=11;align=left;verticalAlign=middle;spacing=8;" value="Datos almacenados en varios nodos conectados por red; el sistema coordina el acceso.&lt;br&gt;&lt;b&gt;Ejemplos:&lt;/b&gt; servicios en la nube y sistemas distribuidos como Cassandra." vertex="1">
+          <mxGeometry height="60" width="600" x="835" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="cont" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9EAF7;strokeColor=#2F75B5;fontColor=#17365D;fontStyle=1;fontSize=14;align=center;verticalAlign=middle;" value="POR CONTENIDO O&lt;br&gt;NATURALEZA" vertex="1">
+          <mxGeometry height="70" width="220" x="330" y="695" as="geometry" />
+        </mxCell>
+        <mxCell id="cont1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F6FA;strokeColor=#9FBAD2;fontColor=#17365D;fontStyle=1;fontSize=12;align=left;verticalAlign=middle;spacing=8;" value="Bibliográficas y de texto completo" vertex="1">
+          <mxGeometry height="60" width="210" x="590" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="cont1_detail" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B8C7D9;fontColor=#263746;fontSize=11;align=left;verticalAlign=middle;spacing=8;" value="Almacenan metadatos de publicaciones o documentos completos con búsqueda e indexación.&lt;br&gt;&lt;b&gt;Ejemplos:&lt;/b&gt; catálogos académicos, repositorios y buscadores." vertex="1">
+          <mxGeometry height="60" width="600" x="835" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="cont2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F6FA;strokeColor=#9FBAD2;fontColor=#17365D;fontStyle=1;fontSize=12;align=left;verticalAlign=middle;spacing=8;" value="Directorios y espaciales" vertex="1">
+          <mxGeometry height="60" width="210" x="590" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="cont2_detail" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#B8C7D9;fontColor=#263746;fontSize=11;align=left;verticalAlign=middle;spacing=8;" value="Directorios para buscar atributos de usuarios o recursos; bases espaciales para ubicaciones y geometrías.&lt;br&gt;&lt;b&gt;Ejemplos:&lt;/b&gt; LDAP, Active Directory y sistemas GIS con PostGIS." vertex="1">
+          <mxGeometry height="60" width="600" x="835" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="e_main_var" edge="1" parent="1" source="main" target="var">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_main_loc" edge="1" parent="1" source="main" target="loc">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_main_cont" edge="1" parent="1" source="main" target="cont">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_var_var1" edge="1" parent="1" source="var" target="var1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_var_var2" edge="1" parent="1" source="var" target="var2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_var1_d" edge="1" parent="1" source="var1" target="var1_detail">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_var2_d" edge="1" parent="1" source="var2" target="var2_detail">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_loc_loc1" edge="1" parent="1" source="loc" target="loc1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_loc_loc2" edge="1" parent="1" source="loc" target="loc2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_loc1_d" edge="1" parent="1" source="loc1" target="loc1_detail">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_loc2_d" edge="1" parent="1" source="loc2" target="loc2_detail">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_cont_cont1" edge="1" parent="1" source="cont" target="cont1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_cont_cont2" edge="1" parent="1" source="cont" target="cont2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_cont1_d" edge="1" parent="1" source="cont1" target="cont1_detail">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_cont2_d" edge="1" parent="1" source="cont2" target="cont2_detail">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
