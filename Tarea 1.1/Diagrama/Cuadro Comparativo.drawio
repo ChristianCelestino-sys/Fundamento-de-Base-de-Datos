@@ -1,0 +1,193 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="Z-NLhnjsGmmCIgD1YRb0">
+    <mxGraphModel dx="1792" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontStyle=1;fontColor=#1F3B64;" value="CUADRO COMPARATIVO DE MODELOS DE BASES DE DATOS" vertex="1">
+          <mxGeometry height="40" width="1170" x="30" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1F3B64;strokeColor=#FFFFFF;fontColor=#FFFFFF;fontStyle=1;fontSize=12;align=center;verticalAlign=middle;spacing=5;" value="Modelo" vertex="1">
+          <mxGeometry height="48" width="150" x="30" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="h1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1F3B64;strokeColor=#FFFFFF;fontColor=#FFFFFF;fontStyle=1;fontSize=12;align=center;verticalAlign=middle;spacing=5;" value="Estructura" vertex="1">
+          <mxGeometry height="48" width="185" x="180" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="h2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1F3B64;strokeColor=#FFFFFF;fontColor=#FFFFFF;fontStyle=1;fontSize=12;align=center;verticalAlign=middle;spacing=5;" value="Características" vertex="1">
+          <mxGeometry height="48" width="230" x="365" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="h3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1F3B64;strokeColor=#FFFFFF;fontColor=#FFFFFF;fontStyle=1;fontSize=12;align=center;verticalAlign=middle;spacing=5;" value="Ventajas" vertex="1">
+          <mxGeometry height="48" width="200" x="595" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="h4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1F3B64;strokeColor=#FFFFFF;fontColor=#FFFFFF;fontStyle=1;fontSize=12;align=center;verticalAlign=middle;spacing=5;" value="Desventajas" vertex="1">
+          <mxGeometry height="48" width="220" x="795" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="h5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1F3B64;strokeColor=#FFFFFF;fontColor=#FFFFFF;fontStyle=1;fontSize=12;align=center;verticalAlign=middle;spacing=5;" value="Ejemplos de uso" vertex="1">
+          <mxGeometry height="48" width="185" x="1015" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="r0c0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D6EAF8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Jerárquico" vertex="1">
+          <mxGeometry height="86" width="150" x="30" y="133" as="geometry" />
+        </mxCell>
+        <mxCell id="r0c1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Árbol; relación padre-hijo" vertex="1">
+          <mxGeometry height="86" width="185" x="180" y="133" as="geometry" />
+        </mxCell>
+        <mxCell id="r0c2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Organiza datos en niveles" vertex="1">
+          <mxGeometry height="86" width="230" x="365" y="133" as="geometry" />
+        </mxCell>
+        <mxCell id="r0c3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Acceso rápido en estructuras definidas" vertex="1">
+          <mxGeometry height="86" width="200" x="595" y="133" as="geometry" />
+        </mxCell>
+        <mxCell id="r0c4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Poco flexible para relaciones complejas" vertex="1">
+          <mxGeometry height="86" width="220" x="795" y="133" as="geometry" />
+        </mxCell>
+        <mxCell id="r0c5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Datos organizados por niveles" vertex="1">
+          <mxGeometry height="86" width="185" x="1015" y="133" as="geometry" />
+        </mxCell>
+        <mxCell id="r1c0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EBF5FB;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="En red" vertex="1">
+          <mxGeometry height="86" width="150" x="30" y="219" as="geometry" />
+        </mxCell>
+        <mxCell id="r1c1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Registros conectados" vertex="1">
+          <mxGeometry height="86" width="185" x="180" y="219" as="geometry" />
+        </mxCell>
+        <mxCell id="r1c2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Un registro puede vincularse con varios" vertex="1">
+          <mxGeometry height="86" width="230" x="365" y="219" as="geometry" />
+        </mxCell>
+        <mxCell id="r1c3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Maneja relaciones complejas" vertex="1">
+          <mxGeometry height="86" width="200" x="595" y="219" as="geometry" />
+        </mxCell>
+        <mxCell id="r1c4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Diseño y mantenimiento complicados" vertex="1">
+          <mxGeometry height="86" width="220" x="795" y="219" as="geometry" />
+        </mxCell>
+        <mxCell id="r1c5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Relaciones múltiples entre registros" vertex="1">
+          <mxGeometry height="86" width="185" x="1015" y="219" as="geometry" />
+        </mxCell>
+        <mxCell id="r2c0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D6EAF8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Relacional" vertex="1">
+          <mxGeometry height="86" width="150" x="30" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="r2c1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Tablas: filas y columnas" vertex="1">
+          <mxGeometry height="86" width="185" x="180" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="r2c2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Claves primarias y foráneas; SQL habitual" vertex="1">
+          <mxGeometry height="86" width="230" x="365" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="r2c3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Integridad y consultas flexibles" vertex="1">
+          <mxGeometry height="86" width="200" x="595" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="r2c4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Puede requerir adaptación para datos no estructurados" vertex="1">
+          <mxGeometry height="86" width="220" x="795" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="r2c5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Inventarios, bancos y ventas" vertex="1">
+          <mxGeometry height="86" width="185" x="1015" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="r3c0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EBF5FB;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Orientado a objetos" vertex="1">
+          <mxGeometry height="86" width="150" x="30" y="391" as="geometry" />
+        </mxCell>
+        <mxCell id="r3c1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Objetos con atributos y comportamientos" vertex="1">
+          <mxGeometry height="86" width="185" x="180" y="391" as="geometry" />
+        </mxCell>
+        <mxCell id="r3c2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Clases, objetos, encapsulación y herencia" vertex="1">
+          <mxGeometry height="86" width="230" x="365" y="391" as="geometry" />
+        </mxCell>
+        <mxCell id="r3c3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Representa objetos complejos" vertex="1">
+          <mxGeometry height="86" width="200" x="595" y="391" as="geometry" />
+        </mxCell>
+        <mxCell id="r3c4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Menos familiar para usuarios de tablas" vertex="1">
+          <mxGeometry height="86" width="220" x="795" y="391" as="geometry" />
+        </mxCell>
+        <mxCell id="r3c5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Aplicaciones con datos complejos" vertex="1">
+          <mxGeometry height="86" width="185" x="1015" y="391" as="geometry" />
+        </mxCell>
+        <mxCell id="r4c0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D6EAF8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Objeto-relacional" vertex="1">
+          <mxGeometry height="86" width="150" x="30" y="477" as="geometry" />
+        </mxCell>
+        <mxCell id="r4c1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Tablas y tipos complejos" vertex="1">
+          <mxGeometry height="86" width="185" x="180" y="477" as="geometry" />
+        </mxCell>
+        <mxCell id="r4c2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Combina modelo relacional y objetos" vertex="1">
+          <mxGeometry height="86" width="230" x="365" y="477" as="geometry" />
+        </mxCell>
+        <mxCell id="r4c3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Integra tablas y estructuras avanzadas" vertex="1">
+          <mxGeometry height="86" width="200" x="595" y="477" as="geometry" />
+        </mxCell>
+        <mxCell id="r4c4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Puede aumentar la complejidad" vertex="1">
+          <mxGeometry height="86" width="220" x="795" y="477" as="geometry" />
+        </mxCell>
+        <mxCell id="r4c5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Aplicaciones empresariales" vertex="1">
+          <mxGeometry height="86" width="185" x="1015" y="477" as="geometry" />
+        </mxCell>
+        <mxCell id="r5c0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EBF5FB;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Documental (NoSQL)" vertex="1">
+          <mxGeometry height="86" width="150" x="30" y="563" as="geometry" />
+        </mxCell>
+        <mxCell id="r5c1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Documentos JSON/BSON" vertex="1">
+          <mxGeometry height="86" width="185" x="180" y="563" as="geometry" />
+        </mxCell>
+        <mxCell id="r5c2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Documentos con campos variables" vertex="1">
+          <mxGeometry height="86" width="230" x="365" y="563" as="geometry" />
+        </mxCell>
+        <mxCell id="r5c3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Flexible para datos semiestructurados" vertex="1">
+          <mxGeometry height="86" width="200" x="595" y="563" as="geometry" />
+        </mxCell>
+        <mxCell id="r5c4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Consultas y relaciones dependen del sistema" vertex="1">
+          <mxGeometry height="86" width="220" x="795" y="563" as="geometry" />
+        </mxCell>
+        <mxCell id="r5c5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Catálogos y aplicaciones web" vertex="1">
+          <mxGeometry height="86" width="185" x="1015" y="563" as="geometry" />
+        </mxCell>
+        <mxCell id="r6c0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D6EAF8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Clave-valor (NoSQL)" vertex="1">
+          <mxGeometry height="86" width="150" x="30" y="649" as="geometry" />
+        </mxCell>
+        <mxCell id="r6c1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Pares clave-valor" vertex="1">
+          <mxGeometry height="86" width="185" x="180" y="649" as="geometry" />
+        </mxCell>
+        <mxCell id="r6c2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="La clave identifica el valor" vertex="1">
+          <mxGeometry height="86" width="230" x="365" y="649" as="geometry" />
+        </mxCell>
+        <mxCell id="r6c3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Acceso rápido por clave" vertex="1">
+          <mxGeometry height="86" width="200" x="595" y="649" as="geometry" />
+        </mxCell>
+        <mxCell id="r6c4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="No ideal para consultas complejas por atributos" vertex="1">
+          <mxGeometry height="86" width="220" x="795" y="649" as="geometry" />
+        </mxCell>
+        <mxCell id="r6c5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Caché y sesiones" vertex="1">
+          <mxGeometry height="86" width="185" x="1015" y="649" as="geometry" />
+        </mxCell>
+        <mxCell id="r7c0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EBF5FB;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Columnar (NoSQL)" vertex="1">
+          <mxGeometry height="86" width="150" x="30" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="r7c1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Familias de columnas" vertex="1">
+          <mxGeometry height="86" width="185" x="180" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="r7c2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Distribuye datos por filas/familias según el sistema" vertex="1">
+          <mxGeometry height="86" width="230" x="365" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="r7c3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Escalable para grandes volúmenes distribuidos" vertex="1">
+          <mxGeometry height="86" width="200" x="595" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="r7c4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Diseño ligado a patrones de consulta" vertex="1">
+          <mxGeometry height="86" width="220" x="795" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="r7c5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Datos distribuidos y analítica" vertex="1">
+          <mxGeometry height="86" width="185" x="1015" y="735" as="geometry" />
+        </mxCell>
+        <mxCell id="r8c0" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D6EAF8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Grafos (NoSQL)" vertex="1">
+          <mxGeometry height="86" width="150" x="30" y="821" as="geometry" />
+        </mxCell>
+        <mxCell id="r8c1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Nodos y aristas" vertex="1">
+          <mxGeometry height="86" width="185" x="180" y="821" as="geometry" />
+        </mxCell>
+        <mxCell id="r8c2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Representa entidades y sus relaciones" vertex="1">
+          <mxGeometry height="86" width="230" x="365" y="821" as="geometry" />
+        </mxCell>
+        <mxCell id="r8c3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Explora relaciones complejas" vertex="1">
+          <mxGeometry height="86" width="200" x="595" y="821" as="geometry" />
+        </mxCell>
+        <mxCell id="r8c4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="No es ideal para toda consulta tabular" vertex="1">
+          <mxGeometry height="86" width="220" x="795" y="821" as="geometry" />
+        </mxCell>
+        <mxCell id="r8c5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#AAB7C4;fontColor=#17202A;fontSize=10;align=left;verticalAlign=middle;spacing=6;" value="Redes sociales y recomendaciones" vertex="1">
+          <mxGeometry height="86" width="185" x="1015" y="821" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
