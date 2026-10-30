@@ -15,16 +15,6 @@ En este repositorio se encuentran los materiales, diagramas y documentos corresp
 - **GitHub:** Almacenamiento y organización de archivos del proyecto.
 - **PDF:** Presentación de reportes y documentación.
 
-## 📁 Estructura del repositorio
-
-```text
-Unidad-2/
-├── README.md
-├── Diagramas/
-├── Documentos/
-└── Recursos/
-```
-
 ## 👨‍💻 Autor
 Christian Iván Celestino Chávez.
 
