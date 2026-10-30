@@ -24,8 +24,8 @@ El cuadro sinóptico presenta la clasificación de las bases de datos según tre
 
 ### Vista previa
 
-![Cuadro sinóptico de clasificación de bases de datos](./Diagramas/Cuadro%20Sinoptico.svg)
-[📂 Abrir cuadro sinóptico en Draw.io](./Diagramas/Cuadro%20Sinoptico.drawio)
+![Cuadro sinóptico de clasificación de bases de datos](./Unidad1/Diagramas/Cuadro%20Sinoptico.svg)
+[📂 Abrir cuadro sinóptico en Draw.io](./Unidad1/Diagramas/Cuadro%20Sinoptico.drawio)
 
 ---
 
@@ -67,8 +67,8 @@ Sus componentes principales se organizan en dos subsistemas:
 
 ### Diagrama
 
-![Arquitectura funcional interna del SGBD](./Diagramas/Arquitectura_Funcional_SGBD.svg)
-[📂 Abrir archivo editable (.drawio)](./Diagramas/Arquitectura_Funcional_SGBD.drawio)
+![Arquitectura funcional interna del SGBD](./Unidad1/Diagramas/Arquitectura_Funcional_SGBD.svg)
+[📂 Abrir archivo editable (.drawio)](./Unidad1/Diagramas/Arquitectura_Funcional_SGBD.drawio)
 
 ---
 
