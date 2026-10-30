@@ -23,7 +23,7 @@ Diseñar un modelo conceptual de base de datos que represente las entidades, los
 
 ## 📂 Archivos de la actividad
 
-- 📄 [Reporte técnico](./Reporte_Tecnico.pdf)
+- 📄 [Reporte técnico](./Reporte_Tecnico_Tarea_2_1.pdf)
 - 📊 [Diagrama E-R editable](./Diagramas/Diagrama_ER.drawio)
 - 🖼️ [Diagrama E-R en imagen](./Diagramas/Diagrama_ER.png)
 - 📑 [Diagrama E-R en PDF](./Diagramas/Diagrama_ER.pdf)
