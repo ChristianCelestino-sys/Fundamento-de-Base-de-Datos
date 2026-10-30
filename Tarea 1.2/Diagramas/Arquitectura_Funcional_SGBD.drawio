@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="Hv6IsCn3bOQpZ4xfKGEH">
+    <mxGraphModel dx="1483" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="titulo" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;" value="ARQUITECTURA FUNCIONAL INTERNA DE UN SGBD" vertex="1">
+          <mxGeometry height="50" width="970" x="100" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="usuarios" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" value="USUARIOS Y APLICACIONES&#xa;Solicitan consultas y operaciones sobre los datos" vertex="1">
+          <mxGeometry height="70" width="470" x="350" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sql" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" value="CONSULTAS SQL&#xa;SELECT, INSERT, UPDATE, DELETE, CREATE" vertex="1">
+          <mxGeometry height="70" width="470" x="350" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="procesador" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;align=left;spacing=10;" value="PROCESADOR DE CONSULTAS&#xa;&#xa;• Analizador sintáctico y semántico&#xa;• Traductor y compilador de consultas&#xa;• Optimizador de consultas&#xa;• Ejecutor de consultas" vertex="1">
+          <mxGeometry height="145" width="570" x="300" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="gestor" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;spacing=8;" value="GESTOR DE ALMACENAMIENTO&#xa;Administra el acceso a los datos y coordina las operaciones de lectura y escritura." vertex="1">
+          <mxGeometry height="80" width="570" x="300" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="buffer" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;" value="GESTOR DE MEMORIA INTERMEDIA&#xa;Administra páginas de datos en memoria." vertex="1">
+          <mxGeometry height="85" width="250" x="30" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="archivos" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;" value="GESTOR DE ARCHIVOS&#xa;Organiza archivos, registros y espacio en disco." vertex="1">
+          <mxGeometry height="85" width="250" x="315" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="transacciones" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;" value="GESTOR DE TRANSACCIONES&#xa;Controla transacciones y concurrencia." vertex="1">
+          <mxGeometry height="85" width="250" x="600" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="recuperacion" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;" value="GESTOR DE RECUPERACIÓN&#xa;Ayuda a recuperar los datos después de fallas." vertex="1">
+          <mxGeometry height="85" width="250" x="885" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="catalogo" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;" value="CATÁLOGO DEL SISTEMA&#xa;Metadatos: tablas, columnas, índices, restricciones y permisos." vertex="1">
+          <mxGeometry height="65" width="400" x="160" y="715" as="geometry" />
+        </mxCell>
+        <mxCell id="disco" parent="1" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" value="ALMACENAMIENTO FÍSICO&#xa;Archivos de datos, índices y registros de transacciones" vertex="1">
+          <mxGeometry height="75" width="420" x="650" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="f1" edge="1" parent="1" source="usuarios" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;" target="sql">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f2" edge="1" parent="1" source="sql" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;" target="procesador">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f3" edge="1" parent="1" source="procesador" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;" target="gestor">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4" edge="1" parent="1" source="gestor" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;" target="buffer">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f5" edge="1" parent="1" source="gestor" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;" target="archivos">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6" edge="1" parent="1" source="gestor" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;" target="transacciones">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7" edge="1" parent="1" source="gestor" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;" target="recuperacion">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f8" edge="1" parent="1" source="procesador" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;dashed=1;fontSize=11;" target="catalogo" value="Consulta metadatos">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f9" edge="1" parent="1" source="archivos" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;" target="disco">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f10" edge="1" parent="1" source="buffer" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;" target="disco">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f11" edge="1" parent="1" source="recuperacion" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;" target="disco">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
