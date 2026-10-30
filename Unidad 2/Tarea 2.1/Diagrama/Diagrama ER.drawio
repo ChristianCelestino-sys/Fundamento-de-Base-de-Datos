@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="0KA07YtJz8xy6sqUcCeq">
+    <mxGraphModel dx="1755" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="titulo" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;" value="DIAGRAMA ENTIDAD-RELACIÓN&#xa;SISTEMA DE VENTAS PARA UNA PAPELERÍA" vertex="1">
+          <mxGeometry height="65" width="1000" x="300" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cliente" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=14;align=left;spacingLeft=10;" value="CLIENTE&#xa;-------------------------&#xa;PK id_cliente&#xa;nombre&#xa;telefono&#xa;correo" vertex="1">
+          <mxGeometry height="160" width="240" x="60" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="venta" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=14;align=left;spacingLeft=10;" value="VENTA&#xa;-------------------------&#xa;PK id_venta&#xa;FK id_cliente&#xa;FK id_empleado&#xa;fecha&#xa;total" vertex="1">
+          <mxGeometry height="190" width="260" x="410" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="empleado" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=14;align=left;spacingLeft=10;" value="EMPLEADO&#xa;-------------------------&#xa;PK id_empleado&#xa;nombre&#xa;puesto" vertex="1">
+          <mxGeometry height="140" width="240" x="790" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="detalle" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;fontSize=14;align=left;spacingLeft=10;" value="DETALLE_VENTA&#xa;-------------------------&#xa;PK, FK id_venta&#xa;PK, FK id_producto&#xa;cantidad&#xa;precio_unitario&#xa;subtotal" vertex="1">
+          <mxGeometry height="190" width="280" x="410" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="producto" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=14;align=left;spacingLeft=10;" value="PRODUCTO&#xa;-------------------------&#xa;PK id_producto&#xa;FK id_categoria&#xa;nombre&#xa;precio&#xa;existencia" vertex="1">
+          <mxGeometry height="180" width="260" x="810" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="categoria" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;fontSize=14;align=left;spacingLeft=10;" value="CATEGORIA&#xa;-------------------------&#xa;PK id_categoria&#xa;nombre&#xa;descripcion" vertex="1">
+          <mxGeometry height="140" width="240" x="1190" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="r1" edge="1" parent="1" source="cliente" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;fontSize=12;" target="venta" value="realiza&#xa;1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2" edge="1" parent="1" source="empleado" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;fontSize=12;" target="venta" value="registra&#xa;1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r3" edge="1" parent="1" source="venta" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;fontSize=12;" target="detalle" value="contiene&#xa;1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r4" edge="1" parent="1" source="producto" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;fontSize=12;" target="detalle" value="corresponde a&#xa;1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r5" edge="1" parent="1" source="categoria" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startArrow=none;strokeWidth=2;fontSize=12;" target="producto" value="agrupa&#xa;1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nota" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontSize=14;" value="PK = clave primaria | FK = clave foránea&#xa;Una venta puede incluir varios productos. DETALLE_VENTA resuelve la relación muchos a muchos entre VENTA y PRODUCTO." vertex="1">
+          <mxGeometry height="70" width="1240" x="180" y="790" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
