@@ -20,7 +20,7 @@
 6\. Diccionario de datos y normalización. 
 
 ## 📄 Documento 
-PDF [📄 Abrir Reporte Técnico de la Tarea 2.1 en PDF](./Reporte\_Tecnico\_Tarea\_2\_1.pdf) 
+PDF [📄 Abrir Reporte Técnico de la Tarea 2.1 en PDF](./Tarea2.1/PDF/Reporte_Tecnico_Tarea_2_1.pdf) 
 
 ## 📊 Diagrama Entidad-Relación (E-R / E-RE) 
 
