@@ -15,13 +15,6 @@ Diseñar un modelo conceptual de base de datos que represente las entidades, los
 - Aplicar conceptos del modelo E-R Extendido, como especialización, generalización, jerarquías y agregación.
 - Elaborar el diagrama conceptual utilizando una herramienta de modelado.
 
-## 📦 Entregables
-- Reporte técnico en PDF.
-- Diagrama E-R y E-R Extendido en alta resolución.
-- Archivo editable del diagrama (`.drawio`, `.erwin` o `.xml`).
-- Exportación del diagrama en imagen o PDF.
-- Video explicativo publicado en YouTube.
-
 ## 🛠️ Herramientas utilizadas
 - **Draw.io:** Diseño de diagramas.
 - **GitHub:** Almacenamiento y publicación de archivos.
