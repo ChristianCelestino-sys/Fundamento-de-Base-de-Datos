@@ -25,7 +25,7 @@ El cuadro sinóptico presenta la clasificación de las bases de datos según tre
 ### Vista previa
 
 ![Cuadro sinóptico de clasificación de bases de datos](./Diagramas/Cuadro%20Sinoptico.svg)
-[📂 Abrir archivo editable (.drawio)](./Diagramas/Cuadro_Sinoptico.drawio)
+[📂 Abrir cuadro sinóptico editable en Draw.io](./Diagramas/Cuadro%20Sinoptico.drawio)
 
 ---
 
