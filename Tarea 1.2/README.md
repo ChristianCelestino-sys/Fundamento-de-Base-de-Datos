@@ -40,8 +40,7 @@ Esta arquitectura permite separar las vistas de los usuarios de los detalles ló
 
 ### Diagrama
 
-![Arquitectura ANSI/SPARC de tres niveles](./Diagrama/Arquitectura_ANSI_SPARC.svg)
-
+![Arquitectura de tres niveles ANSI/SPARC](./Diagramas/Arquitectura_ANSI_SPARC.svg)
 ---
 
 ## ⚙️ 4. Arquitectura funcional interna del SGBD
