@@ -65,7 +65,7 @@ Sus componentes principales se organizan en dos subsistemas:
 
 ### Diagrama
 
-![Arquitectura funcional del SGBD](./Diagrama/Arquitectura_Funcional_SGBD.svg)
+![Arquitectura funcional interna del SGBD](./Diagramas/Arquitectura_Funcional_SGBD.svg)
 
 ---
 
