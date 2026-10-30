@@ -10,7 +10,7 @@
 
 En el siguiente enlace se encuentra el documento completo de la actividad, que incluye el cuadro sinóptico, los diagramas explicados, un ejemplo práctico, la conclusión y las referencias bibliográficas en formato APA 7.
 
-📥 **[Consultar PDF de la Tarea 1.2](./PDF/Tarea_1_2_Clasificacion_Arquitecturas_ANSI_SPARC_SGBD)**
+[📄 Descargar el PDF de la tarea 1.2](./PDF/Tarea_1_2_Clasificacion_Arquitecturas_ANSI_SPARC_SGBD.pdf)
 
 ---
 
