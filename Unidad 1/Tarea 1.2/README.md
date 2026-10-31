@@ -1,115 +1,40 @@
-# 📚 Tarea 1.2: Clasificación y arquitecturas de bases de datos
+# 📗 Tarea 1.2. Clasificación y arquitectura ANSI/SPARC
 
-**Asignatura:** Bases de Datos  
-**Unidad:** 1. Introducción a las bases de datos  
-**Tema:** Clasificación de las bases de datos, arquitectura ANSI/SPARC y arquitectura funcional del SGBD.
+## 📌 Descripción
+En esta actividad se estudia la clasificación de las bases de datos y la arquitectura ANSI/SPARC, comprendiendo sus características, niveles y funciones dentro de los sistemas de gestión de bases de datos.
 
----
+## 🎯 Objetivo
+Identificar las diferentes clasificaciones de las bases de datos y comprender la arquitectura ANSI/SPARC, así como la función de sus niveles externo, conceptual e interno.
 
-## 📄 1. Documento PDF
+## 📝 Contenido
+- Clasificación de las bases de datos.
+- Bases de datos según su modelo de datos.
+- Bases de datos según su ubicación y distribución.
+- Bases de datos según su uso y finalidad.
+- Arquitectura ANSI/SPARC.
+- Nivel externo, nivel conceptual y nivel interno.
+- Independencia lógica y física de los datos.
 
-En el siguiente enlace se encuentra el documento completo de la actividad, que incluye el cuadro sinóptico, los diagramas explicados, un ejemplo práctico, la conclusión y las referencias bibliográficas en formato APA 7.
+## 📂 Archivos de la actividad
 
-[📄 Descargar el PDF de la tarea 1.2](./PDF/Tarea_1_2_Clasificacion_Arquitecturas_ANSI_SPARC_SGBD.pdf)
+### 📊 Diagramas
+- 📄 [Arquitectura ANSI/SPARC editable](./Diagramas/Arquitectura%20ANSI_SPARC.drawio)
+- 🖼️ [Arquitectura ANSI/SPARC en imagen](./Diagramas/Arquitectura%20ANSI_SPARC.svg)
+- 📄 [Arquitectura funcional del SGBD editable](./Diagramas/Arquitectura%20Funcional_SGBD.drawio)
+- 🖼️ [Arquitectura funcional del SGBD en imagen](./Diagramas/Arquitectura%20Funcional_SGBD.svg)
+- 📄 [Cuadro sinóptico editable](./Diagramas/Cuadro%20Sinoptico.drawio)
+- 🖼️ [Cuadro sinóptico en imagen](./Diagramas/Cuadro%20Sinoptico.svg)
 
----
+### 📑 Documentos PDF
+- 📘 [Reporte de la actividad en PDF](./PDF/Tarea_1_2_Clasificacion_Arquitectura_ANSI_SPARC.pdf)
 
-## 🗂️ 2. Cuadro sinóptico: clasificación de las bases de datos
+## 🛠️ Herramientas utilizadas
+- **Draw.io:** Elaboración y edición de diagramas.
+- **GitHub:** Almacenamiento y organización de archivos.
+- **PDF:** Presentación de los documentos de la actividad.
 
-El cuadro sinóptico presenta la clasificación de las bases de datos según tres criterios principales:
-
-- **Por variabilidad de los datos:** estáticas (OLAP) y dinámicas (OLTP).
-- **Por ubicación del almacenamiento:** centralizadas y distribuidas.
-- **Por contenido o naturaleza:** bibliográficas y de texto completo, directorios y espaciales.
-
-### Vista previa
-
-![Cuadro sinóptico de clasificación de bases de datos](./Unidad1/Diagramas/Cuadro%20Sinoptico.svg)
-[📂 Abrir cuadro sinóptico en Draw.io](./Unidad1/Diagramas/Cuadro%20Sinoptico.drawio)
-
----
-
-## 🏛️ 3. Arquitectura de tres niveles ANSI/SPARC
-
-La arquitectura ANSI/SPARC organiza una base de datos en tres niveles de abstracción:
-
-1. **Nivel externo:** representa las vistas de los usuarios y las aplicaciones.
-2. **Nivel conceptual:** describe la estructura lógica global, las entidades, las relaciones y las restricciones.
-3. **Nivel interno o físico:** explica cómo se almacenan los datos, incluidos los archivos, índices y métodos de acceso.
-
-Esta arquitectura permite separar las vistas de los usuarios de los detalles lógicos y físicos del almacenamiento.
-
-### Diagrama
-
-![Arquitectura de tres niveles ANSI/SPARC](./Diagramas/Arquitectura_ANSI_SPARC.svg)
-[📂 Abrir archivo editable (.drawio)](./Diagramas/Arquitectura_Tres_Niveles_ANSI_SPARC.drawio)
----
-
-## ⚙️ 4. Arquitectura funcional interna del SGBD
-
-Un Sistema de Gestión de Bases de Datos (SGBD) administra la información y procesa las solicitudes de los usuarios.
-
-Sus componentes principales se organizan en dos subsistemas:
-
-### Procesador de consultas
-
-- Compilador DDL.
-- Analizador DML o parser.
-- Optimizador de consultas.
-- Motor de evaluación.
-
-### Gestor de almacenamiento
-
-- Gestor de memoria intermedia.
-- Gestor de archivos y espacio en disco.
-- Gestor de transacciones y concurrencia.
-- Diccionario de datos o catálogo del sistema.
-
-### Diagrama
-
-![Arquitectura funcional interna del SGBD](./Unidad1/Diagramas/Arquitectura_Funcional_SGBD.svg)
-[📂 Abrir archivo editable (.drawio)](./Unidad1/Diagramas/Arquitectura_Funcional_SGBD.drawio)
+## 📚 Conclusión
+El estudio de la clasificación de las bases de datos permite reconocer sus diferentes tipos y aplicaciones. Por su parte, la arquitectura ANSI/SPARC ayuda a comprender cómo se organiza un sistema de bases de datos en distintos niveles, facilitando la independencia de los datos y su administración.
 
 ---
-
-## 🔄 5. Ejemplo práctico del flujo de datos
-
-En un punto de venta, un empleado consulta el precio y la existencia de un producto.
-
-1. El empleado realiza la consulta desde la aplicación.
-2. El procesador de consultas analiza la instrucción SQL.
-3. El optimizador selecciona un plan de ejecución.
-4. El gestor de almacenamiento localiza los registros necesarios.
-5. El resultado regresa al procesador de consultas.
-6. La aplicación muestra la información al empleado mediante su vista externa.
-
-Este proceso permite comprender cómo interactúan los niveles de abstracción y los componentes internos del SGBD.
-
----
-
-## 🎥 6. Exposición en video
-
-En este apartado se agregará el enlace público de YouTube con la exposición de la actividad.
-
-**Video:** [Ver exposición en YouTube](PEGA_AQUI_EL_ENLACE_PUBLICO_DEL_VIDEO)
-
-La exposición explica el flujo de datos entre los niveles externo, conceptual e interno de ANSI/SPARC, así como las funciones de los módulos del SGBD.
-
-> **Nota:** la grabación debe mostrar la cámara web en la esquina inferior derecha, de acuerdo con las instrucciones de la actividad.
-
----
-
-## 📚 7. Referencias bibliográficas
-
-- ANSI/X3/SPARC Study Group on Data Base Management Systems. (1975). *Interim report*. FDT (Bulletin of ACM SIGMOD), 7(2), 1–140.
-- Date, C. J. (2019). *Introducción a los sistemas de bases de datos* (8.ª ed.). Pearson Educación.
-- Elmasri, R., & Navathe, S. B. (2016). *Fundamentals of database systems* (7th ed.). Pearson.
-- Silberschatz, A., Korth, H. F., & Sudarshan, S. (2019). *Database system concepts* (7th ed.). McGraw-Hill Education.
-
----
-
-## ✅ 8. Conclusión
-
-La clasificación de las bases de datos permite identificar diferentes formas de organizar y gestionar la información. La arquitectura ANSI/SPARC explica la separación entre las vistas externas, la estructura conceptual y el almacenamiento físico. Por su parte, la arquitectura funcional del SGBD muestra cómo se procesan las consultas y cómo se administran los datos.
-
-Ambos enfoques son fundamentales para comprender el funcionamiento de los sistemas de bases de datos.
+**Unidad 1: Introducción a las bases de datos**
