@@ -26,7 +26,8 @@ Identificar las diferentes clasificaciones de las bases de datos y comprender la
 - 🖼️ [Cuadro sinóptico en imagen](./Diagramas/Cuadro%20Sinoptico.svg)
 
 ### 📑 Documentos PDF
-- 📘 [Reporte de la actividad en PDF](./PDF/Tarea_1_2_Clasificacion_Arquitectura_ANSI_SPARC.pdf)
+
+- 📘 [Reporte de la Tarea 1.2](./PDF/Tarea_1_2_Clasificacion_Arquitecturas_ANSI_SPARC_SGBD.pdf)
 
 ## 🛠️ Herramientas utilizadas
 - **Draw.io:** Elaboración y edición de diagramas.
