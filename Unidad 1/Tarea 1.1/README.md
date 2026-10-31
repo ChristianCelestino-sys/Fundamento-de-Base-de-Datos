@@ -1,51 +1,36 @@
-# Tarea 1.1. Fundamentos, objetivos y modelos de bases de datos
+# 📘 Tarea 1.1. Fundamentos, objetivos y modelos de bases de datos
 
 ## 📌 Descripción
+En esta actividad se estudian los fundamentos de las bases de datos, sus objetivos principales y los diferentes modelos utilizados para organizar y administrar la información.
 
-Investigación sobre los conceptos fundamentales, objetivos, áreas de aplicación y modelos de bases de datos.
+## 🎯 Objetivo
+Comprender los conceptos fundamentales de las bases de datos, identificar sus objetivos y reconocer los principales modelos de bases de datos.
 
-## 📂 Contenido
+## 📝 Contenido
+- Fundamentos de las bases de datos.
+- Objetivos de las bases de datos.
+- Conceptos básicos de los sistemas gestores de bases de datos (SGBD).
+- Modelos de bases de datos.
+- Importancia de las bases de datos en los sistemas de información.
 
-- **Tablas:** comparaciones y clasificaciones de los modelos de bases de datos.
-- **Diagramas:** mapa conceptual de los fundamentos de las bases de datos.
-- **PDF:** documento completo de la investigación.
+## 📂 Archivos de la actividad
 
-  ## 📚 Temas
+### 📊 Diagramas
+- 📄 [Cuadro comparativo editable](./Diagramas/Cuadro%20Comparativo.drawio)
+- 🖼️ [Cuadro comparativo en imagen](./Diagramas/Cuadro%20Comparativo.svg)
+- 📄 [Mapa conceptual editable](./Diagramas/Mapa%20Conceptual.drawio)
+- 🖼️ [Mapa conceptual en imagen](./Diagramas/Mapa%20Conceptual.svg)
 
-1. Conceptos fundamentales.
-2. Objetivos y funciones.
-3. Áreas de aplicación.
-4. Modelos de bases de datos.
-5. Comparación de modelos.
+### 📑 Documentos PDF
+- 📘 [Reporte de la actividad en PDF](./PDF/Tarea_1_1_Fundamentos_Objetivos_Modelos.pdf)
 
-## 📄 Documento PDF
+## 🛠️ Herramientas utilizadas
+- **Draw.io:** Elaboración de diagramas.
+- **GitHub:** Almacenamiento y organización de archivos.
+- **PDF:** Presentación de los documentos de la actividad.
 
-[📄 Abrir Tarea 1.1 en PDF](./PDF/Tarea_1_1_Fundamentos_Objetivos_Modelos_BD.pdf)
+## 📚 Conclusión
+El estudio de los fundamentos, objetivos y modelos de bases de datos permite comprender cómo se organiza y administra la información, así como la importancia de seleccionar un modelo adecuado para cada necesidad.
 
-## 📊 Diagrama conceptual
-
-![Mapa conceptual de bases de datos](./Diagrama/Mapa%20Conceptual.svg)
-
-[📂 Abrir mapa conceptual editable en Draw.io](./Diagrama/Mapa%20Conceptual.drawio)
-
-## Cuadro Comparativo
-
-[🔗 Abrir mCuadro Comparativo](./Diagrama/Cuadro%20Comparativo.svg)
-
-[📂 Abrir cuadro comparativo en Draw.io](./Diagrama/Cuadro%20Comparativo.drawio)
-
-## 🎥 Video explicativo
-
-[Ver video de la Tarea 1.1](PEGA_AQUI_EL_ENLACE_DEL_VIDEO)
-
-## 📚 Bibliografía
-
-Codd, E. F. (1970). A relational model of data for large shared data banks. *Communications of the ACM, 13*(6), 377–387. https://doi.org/10.1145/362384.362685
-
-Date, C. J. (2003). *An introduction to database systems* (8th ed.). Addison-Wesley.
-
-Elmasri, R., & Navathe, S. B. (2016). *Fundamentals of database systems* (7th ed.). Pearson.
-
-Silberschatz, A., Korth, H. F., & Sudarshan, S. (2019). *Database system concepts* (7th ed.). McGraw-Hill Education.
-
-Universidad de Puerto Rico, Recinto Universitario de Mayagüez. (s. f.). *APA 7: Guía de referencias*. https://libguides.uprm.edu/apa_es/referencias
+---
+**Unidad 1: Introducción a las bases de datos**
