@@ -24,7 +24,7 @@ Representar el modelo conceptual de una base de datos mediante la notación UML,
 - 🖼️ [Diagrama de clases UML en imagen (.svg)](./Diagrama/Diagrama%20UML.svg)
 
 ### 📑 Documento PDF
-- 📘 [Reporte comparativo E-R vs. UML](./PDF/Reporte_ER_vs_UML.pdf)
+- 📘 [Reporte comparativo E-R vs. UML](./PDF/Reporte_Tecnico_Tarea_2_2)
 
 ## 🎥 Video explicativo
 - ▶️ [Ver video en YouTube](PEGA_AQUI_EL_ENLACE_DE_TU_VIDEO)
