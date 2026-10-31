@@ -17,9 +17,8 @@ Diseñar un modelo conceptual de base de datos que permita organizar la informac
 
 ## 📂 Archivos de la actividad
 
-### 📊 Diagramas
-- 📊 [Diagrama E-R editable (.drawio)](./Diagrama_ER.drawio)
-- 🖼️ [Diagrama E-R en imagen (.svg)](./Diagrama_ER.svg)
+- 📊 [Diagrama E-R editable (.drawio)](./Diagrama/Diagrama%20ER.drawio)
+- 📄 [Diagrama E-R en XML (.xml)](./Diagrama/Diagrama%20ER.xml)
 
 ### 📑 Documento PDF
 - 📘 [Reporte técnico](./PDF/Reporte_Tecnico_Tarea_2_1.pdf)
