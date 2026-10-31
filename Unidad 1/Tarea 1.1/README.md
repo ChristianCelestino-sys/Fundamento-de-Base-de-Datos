@@ -22,7 +22,7 @@ Comprender los conceptos fundamentales de las bases de datos, identificar sus ob
 - 🖼️ [Mapa conceptual en .svg](./Diagramas/Mapa%20Conceptual.svg)
 
 ### 📑 Documentos PDF
-- 📘 [Reporte de la actividad en PDF](./PDF/Tarea_1_1_Fundamentos_Objetivos_Modelos.pdf)
+- 📘 [Reporte de la actividad en PDF](./PDF/Tarea_1_1_Fundamentos_Objetivos_Modelos_DB.pdf)
 
 ## 🛠️ Herramientas utilizadas
 - **Draw.io:** Elaboración de diagramas.
