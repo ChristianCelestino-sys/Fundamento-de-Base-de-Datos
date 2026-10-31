@@ -16,10 +16,10 @@ Comprender los conceptos fundamentales de las bases de datos, identificar sus ob
 ## 📂 Archivos de la actividad
 
 ### 📊 Diagramas
-- 📄 [Cuadro comparativo editable](./Diagramas/Cuadro%20Comparativo.drawio)
-- 🖼️ [Cuadro comparativo en imagen](./Diagramas/Cuadro%20Comparativo.svg)
-- 📄 [Mapa conceptual editable](./Diagramas/Mapa%20Conceptual.drawio)
-- 🖼️ [Mapa conceptual en imagen](./Diagramas/Mapa%20Conceptual.svg)
+- 📄 [Cuadro comparativo .drawio](./Diagramas/Cuadro%20Comparativo.drawio)
+- 🖼️ [Cuadro comparativo .svg](./Diagramas/Cuadro%20Comparativo.svg)
+- 📄 [Mapa conceptual .drawio](./Diagramas/Mapa%20Conceptual.drawio)
+- 🖼️ [Mapa conceptual en .svg](./Diagramas/Mapa%20Conceptual.svg)
 
 ### 📑 Documentos PDF
 - 📘 [Reporte de la actividad en PDF](./PDF/Tarea_1_1_Fundamentos_Objetivos_Modelos.pdf)
