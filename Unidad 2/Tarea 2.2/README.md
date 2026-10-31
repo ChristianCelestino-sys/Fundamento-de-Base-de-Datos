@@ -21,7 +21,7 @@ Representar el modelo conceptual de una base de datos mediante la notación UML,
 - 📄 [Diagrama UML editable (.drawio)](./Diagramas/Diagrama%20UML.drawio)
 - 📄 [Diagrama UML en XML (.xml)](./Diagramas/Diagrama%20UML.xml)
 - 🖼️ [Diagrama UML en imagen (.svg)](./Diagramas/Diagrama%20UML.svg)
-
+  
 ### 📑 Documento PDF
 - 📘 [Reporte comparativo E-R vs. UML](./PDF/Reporte_Tecnico_Tarea_2_2)
 
