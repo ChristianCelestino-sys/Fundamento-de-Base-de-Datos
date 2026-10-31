@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Diagrama de clases UML>
+  <Diagrama de clases UML ClassName="Persona" Attributes="- id: int - nombre: String - telefono: String" Methods="+ mostrarInformacion(): void" Relationships=""/>
+  <Diagrama de clases UML ClassName="Cliente" Attributes="- direccion: String" Methods="+ registrarCliente(): void + consultarHistorial(): void" Relationships="Inherits from Persona; realiza (1 a muchos) Venta"/>
+  <Diagrama de clases UML ClassName="Empleado" Attributes="- puesto: String" Methods="+ registrarVenta(): void + consultarVentas(): void" Relationships="Inherits from Persona; registra (1 a muchos) Venta"/>
+  <Diagrama de clases UML ClassName="Venta" Attributes="- idVenta: int - fecha: Date - total: double" Methods="+ calcularTotal(): double + generarReporte(): void" Relationships="realizada por Cliente; registrada por Empleado; contiene (1 a muchos) DetalleVenta"/>
+  <Diagrama de clases UML ClassName="DetalleVenta" Attributes="- cantidad: int - precioUnitario: double" Methods="+ calcularSubtotal(): double" Relationships="contiene (1 a muchos) from Venta; corresponde a Producto"/>
+  <Diagrama de clases UML ClassName="Producto" Attributes="- idProducto: int - nombre: String - precio: double - existencia: int" Methods="+ actualizarInventario(): void" Relationships="corresponde a DetalleVenta"/>
+</Diagrama de clases UML>
