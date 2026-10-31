@@ -18,10 +18,10 @@ Identificar las diferentes clasificaciones de las bases de datos y comprender la
 ## 📂 Archivos de la actividad
 
 ### 📊 Diagramas
-- 📄 [Arquitectura ANSI/SPARC editable](./Diagramas/Arquitectura_ANSI_SPARC.drawio)
-- 🖼️ [Arquitectura ANSI/SPARC en imagen](./Diagramas/Arquitectura%20ANSI_SPARC.svg)
-- 📄 [Arquitectura funcional del SGBD editable](./Diagramas/Arquitectura%20Funcional_SGBD.drawio)
-- 🖼️ [Arquitectura funcional del SGBD en imagen](./Diagramas/Arquitectura%20Funcional_SGBD.svg)
+- - 🖼️ [Arquitectura ANSI/SPARC en imagen](./Diagramas/Arquitectura_ANSI_SPARC.svg)
+- 📄 [Arquitectura funcional del SGBD editable](./Diagramas/Arquitectura_Funcional_SGBD.drawio)
+- 🖼️ [Arquitectura funcional del SGBD en imagen](./Diagramas/Arquitectura_Funcional_SGBD.svg)
+- 📄 [Arquitectura de tres niveles ANSI/SPARC editable](./Diagramas/Arquitectura_Tres_Niveles_ANSI_SPARC.drawio)
 - 📄 [Cuadro sinóptico editable](./Diagramas/Cuadro%20Sinoptico.drawio)
 - 🖼️ [Cuadro sinóptico en imagen](./Diagramas/Cuadro%20Sinoptico.svg)
 
