@@ -25,6 +25,8 @@ Comprender los conceptos fundamentales de las bases de datos, identificar sus ob
 
 - 📘 [reporte de la Tarea 1.1](./PDF/Tarea_1_1_Fundamentos_Objetivos_Modelos_BD.pdf)
 
+-🎥 [Video explicativo en YouTube](PEGA_AQUI_EL_ENLACE_DE_TU_VIDEO)
+
 ## 🛠️ Herramientas utilizadas
 - **Draw.io:** Elaboración de diagramas.
 - **GitHub:** Almacenamiento y organización de archivos.
