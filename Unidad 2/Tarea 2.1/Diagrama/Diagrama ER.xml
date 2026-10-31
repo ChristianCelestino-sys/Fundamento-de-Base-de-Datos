@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Diagrama>
+  <Diagrama Entidad="CLIENTE" Atributos="PK id_cliente, nombre, telefono, correo" Relacin="realiza" Cardinalidad="1 : N" EntidadRelacionada="VENTA"/>
+  <Diagrama Entidad="VENTA" Atributos="PK id_venta, FK id_cliente, FK id_empleado, fecha, total" Relacin="contiene" Cardinalidad="1 : N" EntidadRelacionada="DETALLE_VENTA"/>
+  <Diagrama Entidad="EMPLEADO" Atributos="PK id_empleado, nombre, puesto" Relacin="registra" Cardinalidad="1 : N" EntidadRelacionada="VENTA"/>
+  <Diagrama Entidad="DETALLE_VENTA" Atributos="PK, FK id_venta, PK, FK id_producto, cantidad, precio_unitario, subtotal" Relacin="corresponde a" Cardinalidad="1 : N" EntidadRelacionada="PRODUCTO"/>
+  <Diagrama Entidad="PRODUCTO" Atributos="PK id_producto, FK id_categoria, nombre, precio, existencia" Relacin="agrupa" Cardinalidad="1 : N" EntidadRelacionada="CATEGORIA"/>
+  <Diagrama Entidad="CATEGORIA" Atributos="PK id_categoria, nombre, descripcion" Relacin="" Cardinalidad="" EntidadRelacionada=""/>
+</Diagrama>
