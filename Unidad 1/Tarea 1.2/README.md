@@ -29,6 +29,8 @@ Identificar las diferentes clasificaciones de las bases de datos y comprender la
 
 - 📘 [Reporte de la Tarea 1.2](./PDF/Tarea_1_2_Clasificacion_Arquitecturas_ANSI_SPARC_SGBD.pdf)
 
+- 🎥 [Video explicativo en YouTube](PEGA_AQUI_EL_ENLACE_DE_TU_VIDEO)
+
 ## 🛠️ Herramientas utilizadas
 - **Draw.io:** Elaboración y edición de diagramas.
 - **GitHub:** Almacenamiento y organización de archivos.
