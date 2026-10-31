@@ -16,11 +16,11 @@ Representar el modelo conceptual de una base de datos mediante la notación UML,
 - Analizar las diferencias entre el modelo E-R y UML.
 - Explicar cómo se relaciona el diseño de bases de datos con la programación orientada a objetos.
 
-## 📂 Archivos de la actividad
+### 📊 Diagramas UML
 
-- 📄 [Diagrama de clases UML editable (.drawio)](./Diagramas/Diagrama%20UML.drawio)
-- 📄 [Diagrama de clases UML en XML (.xml)](./Diagramas/Diagrama%20UML.xml)
-- 🖼️ [Diagrama de clases UML en imagen (.svg)](./Diagramas/Diagrama%20UML.svg)
+- 📄 [Diagrama UML editable (.drawio)](./Diagramas/Diagrama%20UML.drawio)
+- 📄 [Diagrama UML en XML (.xml)](./Diagramas/Diagrama%20UML.xml)
+- 🖼️ [Diagrama UML en imagen (.svg)](./Diagramas/Diagrama%20UML.svg)
 
 ### 📑 Documento PDF
 - 📘 [Reporte comparativo E-R vs. UML](./PDF/Reporte_Tecnico_Tarea_2_2)
