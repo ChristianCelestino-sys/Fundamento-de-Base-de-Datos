@@ -30,13 +30,23 @@ En esta actividad se desarrollan los siguientes aspectos:
 - Documentación de las reglas de integridad.
 - Video explicativo sobre la transformación del modelo E-R al esquema relacional.
 
+## 📊 Diagramas del esquema relacional
+
+El esquema relacional de **TechMarket Express** se encuentra disponible en los siguientes formatos:
+
+- **[Diagrama editable (.drawio)](./Esquema_Relacional_Tarea_3_1.drawio)**
+- **[Diagrama exportado (.svg)](./Esquema_Relacional_Tarea_3_1.svg)**
+
+### Contenido del diagrama
+
+El diagrama representa las tablas del modelo relacional, sus atributos, las claves primarias (PK), las claves foráneas (FK) y las relaciones entre las entidades.
 ## 🎥 Video de la actividad
 En este apartado se incluirá el enlace al video de presentación de la Tarea 3.1.
 
 **Enlace al video: (https://youtu.be/4wMiadcS2NU)**
 
 ## 👨‍💻 Autor
-Estudiante de la asignatura de Fundamentos de Bases de Datos.
+Christian Iván Celestino Chávez.
 
 ## 📄 Licencia
 Este repositorio tiene fines académicos y educativos.
