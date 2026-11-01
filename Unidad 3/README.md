@@ -1,29 +1,26 @@
-# 📚 Unidad 3: [Modelo relacional]
+# 📚 Unidad 3: Modelo relacional
 
 ## 📌 Descripción
-
-En esta unidad se estudian los conceptos y procedimientos relacionados con [tema principal de la unidad], aplicando los conocimientos adquiridos mediante el desarrollo de actividades y ejercicios prácticos.
+En esta unidad se estudia el modelo relacional de bases de datos, su estructura y las reglas de integridad necesarias para organizar la información. Se aborda la transformación del modelo Entidad-Relación (E-R) a un esquema relacional y la generación del esquema físico mediante un Sistema Gestor de Bases de Datos (SGBD).
 
 ## 🎯 Competencia
-
-Conocer y aplicar los conceptos fundamentales de [tema de la unidad] para desarrollar las actividades correspondientes.
+Conocer y aplicar el modelo relacional para la generación de esquemas de base de datos con el fin de organizar la información y atender necesidades del entorno.
 
 ## 📂 Contenido de la unidad
+En este repositorio se encuentran los materiales, diagramas y documentos correspondientes a las actividades de la Unidad 3.
 
-En este repositorio se encuentran los materiales, diagramas, documentos y actividades correspondientes a la Unidad 3.
+- **Tarea 3.1:** Transformación de Modelo E-R a Esquema Relacional y Reglas de Integridad.
+- **Tarea 3.2:** Generación del esquema físico en SGBD y script LDD.
 
 ## 🛠️ Herramientas utilizadas
-
-- **Draw.io:** Elaboración y edición de diagramas, cuando sea necesario.
+- **Draw.io:** Elaboración y edición de diagramas.
 - **GitHub:** Almacenamiento y organización de archivos del proyecto.
-- **PDF:** Presentación de reportes y documentación.
-
-## 📁 Estructura del repositorio
+- **PDF:** Presentación de reportes técnicos y documentación.
+- **SQL:** Creación y definición de estructuras de bases de datos.
+- **SGBD:** Implementación y validación del esquema físico de la base de datos.
 
 ## 👨‍💻 Autor
-
 Christian Iván Celestino Chávez.
 
 ## 📄 Licencia
-
 Este repositorio tiene fines académicos y educativos.
