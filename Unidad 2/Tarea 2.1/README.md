@@ -24,7 +24,7 @@ Diseñar un modelo conceptual de base de datos que permita organizar la informac
 - 📘 [Reporte técnico](./PDF/Reporte_Tecnico_Tarea_2_1.pdf)
 
 ## 🎥 Video explicativo
-- ▶️ [Ver video en YouTube](PEGA_AQUI_EL_ENLACE_DE_TU_VIDEO)
+- ▶️ [Ver video en YouTube](https://youtu.be/UjygUb1_p00)
 
 ## 🛠️ Herramientas utilizadas
 - **Draw.io:** Diseño y edición de diagramas.
