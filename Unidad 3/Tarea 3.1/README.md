@@ -30,12 +30,17 @@ En esta actividad se desarrollan los siguientes aspectos:
 - Documentación de las reglas de integridad.
 - Video explicativo sobre la transformación del modelo E-R al esquema relacional.
 
+📄 Documento PDF
+
+Consulta el documento de la actividad, que contiene la documentación del proceso de transformación del modelo Entidad-Relación al esquema relacional y las reglas de integridad.
+
+[Consultar reporte en PDF](./PDF/Reporte_Tecnico_Tarea_3_1.pdf)
+
 ## 📊 Diagramas del esquema relacional
 
 El esquema relacional de **TechMarket Express** está disponible en los siguientes formatos:
 
 - **[Diagrama editable (.drawio)](./Diagramas/Esquema%20Relacional.drawio)**
--  
 - **[Diagrama en formato SVG (.svg)](./Diagramas/Esquema%20Relacional.svg)**
   
 ### Contenido del diagrama
@@ -43,6 +48,7 @@ El esquema relacional de **TechMarket Express** está disponible en los siguient
 El esquema presenta las tablas de la base de datos, sus atributos, las claves primarias (PK), las claves foráneas (FK) y las relaciones entre ellas.
 
 El diagrama representa las tablas del modelo relacional, sus atributos, las claves primarias (PK), las claves foráneas (FK) y las relaciones entre las entidades.
+
 ## 🎥 Video de la actividad
 En este apartado se incluirá el enlace al video de presentación de la Tarea 3.1.
 
