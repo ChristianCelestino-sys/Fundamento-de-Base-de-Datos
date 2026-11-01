@@ -47,7 +47,7 @@ Los archivos de esta actividad se organizarán de la siguiente manera:
 
 ### 🗄️ Script SQL
 
-- [Consultar el script SQL](./schema.sql)
+- [Consultar el script SQL](./SQL/schema.sql)
 
 ### 📄 Reporte PDF
 
