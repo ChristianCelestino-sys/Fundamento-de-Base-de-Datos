@@ -55,8 +55,8 @@ Los archivos de esta actividad se organizarán de la siguiente manera:
 
 ### 📊 Diagrama del esquema físico
 
-- [Abrir diagrama editable (.drawio)](./Diagramas/Esquema_Fisico.drawio)
-- [Ver diagrama en formato SVG (.svg)](./Diagramas/Esquema_Fisico.svg)
+- [Abrir diagrama editable (.drawio)](./Diagrama/Esquema_Fisico.drawio)
+- [Ver diagrama en formato SVG (.svg)](./Diagrama/Esquema_Fisico.svg)
 
 ### 📸 Evidencias de ejecución
 
