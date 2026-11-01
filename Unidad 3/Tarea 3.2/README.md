@@ -69,7 +69,7 @@ En el video se explicará el proceso de creación del esquema físico, la ejecuc
 
 ## 👨‍💻 Autor
 
-Estudiante de la asignatura **Fundamentos de Base de Datos**.
+Christian Iván Celestino Chávez.
 
 ## 📜 Licencia
 
