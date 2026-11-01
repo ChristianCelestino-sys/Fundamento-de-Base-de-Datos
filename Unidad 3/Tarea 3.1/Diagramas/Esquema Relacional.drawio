@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="NrEMG-hJtavIcc0corB8">
+    <mxGraphModel dx="1720" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="titulo" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=22;fontStyle=1;fontColor=#17365D;" value="TECHMARKET EXPRESS&#xa;ESQUEMA RELACIONAL — TAREA 3.1" vertex="1">
+          <mxGeometry height="60" width="650" x="350" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="categoria" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;align=left;spacingLeft=12;spacingTop=8;" value="&lt;b&gt;CATEGORIA&lt;/b&gt;&lt;hr&gt;&lt;u&gt;PK&lt;/u&gt; id_categoria&lt;br&gt;nombre_categoria&lt;br&gt;descripcion" vertex="1">
+          <mxGeometry height="120" width="220" x="70" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cliente" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;align=left;spacingLeft=12;spacingTop=8;" value="&lt;b&gt;CLIENTE&lt;/b&gt;&lt;hr&gt;&lt;u&gt;PK&lt;/u&gt; id_cliente&lt;br&gt;rfc (UNIQUE)&lt;br&gt;nombre&lt;br&gt;primer_apellido&lt;br&gt;email (UNIQUE)" vertex="1">
+          <mxGeometry height="160" width="250" x="390" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="telefono" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;align=left;spacingLeft=12;spacingTop=8;" value="&lt;b&gt;TELEFONO_CLIENTE&lt;/b&gt;&lt;hr&gt;&lt;u&gt;PK, FK&lt;/u&gt; id_cliente&lt;br&gt;&lt;u&gt;PK&lt;/u&gt; numero&lt;br&gt;tipo" vertex="1">
+          <mxGeometry height="120" width="250" x="390" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="producto" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;align=left;spacingLeft=12;spacingTop=8;" value="&lt;b&gt;PRODUCTO&lt;/b&gt;&lt;hr&gt;&lt;u&gt;PK&lt;/u&gt; id_producto&lt;br&gt;sku&lt;br&gt;nombre&lt;br&gt;precio&lt;br&gt;stock&lt;br&gt;&lt;b&gt;FK&lt;/b&gt; id_categoria" vertex="1">
+          <mxGeometry height="150" width="220" x="70" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="pedido" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;align=left;spacingLeft=12;spacingTop=8;" value="&lt;b&gt;PEDIDO&lt;/b&gt;&lt;hr&gt;&lt;u&gt;PK&lt;/u&gt; id_pedido&lt;br&gt;fecha_pedido&lt;br&gt;monto_total&lt;br&gt;estado&lt;br&gt;&lt;b&gt;FK&lt;/b&gt; id_cliente" vertex="1">
+          <mxGeometry height="145" width="230" x="760" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="detalle" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;align=left;spacingLeft=12;spacingTop=8;" value="&lt;b&gt;DETALLE_PEDIDO&lt;/b&gt;&lt;hr&gt;&lt;u&gt;PK, FK&lt;/u&gt; id_pedido&lt;br&gt;&lt;u&gt;PK, FK&lt;/u&gt; id_producto&lt;br&gt;cantidad&lt;br&gt;precio_unitario&lt;br&gt;subtotal" vertex="1">
+          <mxGeometry height="145" width="260" x="390" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="envio" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;align=left;spacingLeft=12;spacingTop=8;" value="&lt;b&gt;ENVIO&lt;/b&gt;&lt;hr&gt;&lt;u&gt;PK&lt;/u&gt; id_envio&lt;br&gt;&lt;b&gt;FK&lt;/b&gt; id_pedido&lt;br&gt;numero_guia&lt;br&gt;empresa_paqueteria" vertex="1">
+          <mxGeometry height="125" width="230" x="760" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="rel1" edge="1" parent="1" source="categoria" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERoneToMany;endFill=0;strokeWidth=2;fontSize=12;" target="producto" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rel2" edge="1" parent="1" source="cliente" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERoneToMany;endFill=0;strokeWidth=2;fontSize=12;" target="telefono" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rel3" edge="1" parent="1" source="cliente" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERoneToMany;endFill=0;strokeWidth=2;fontSize=12;" target="pedido" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rel4" edge="1" parent="1" source="pedido" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERoneToMany;endFill=0;strokeWidth=2;fontSize=12;" target="detalle" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rel5" edge="1" parent="1" source="producto" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERoneToMany;endFill=0;strokeWidth=2;fontSize=12;" target="detalle" value="1 : N">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rel6" edge="1" parent="1" source="pedido" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERoneToOne;endFill=0;strokeWidth=2;fontSize=12;" target="envio" value="1 : 1 (según reporte)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nota" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=13;fontColor=#444444;" value="Leyenda: PK = clave primaria | FK = clave foránea | UNIQUE = valor único.&#xa;1:N = uno a muchos." vertex="1">
+          <mxGeometry height="55" width="950" x="70" y="820" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
