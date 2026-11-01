@@ -33,7 +33,7 @@ En esta actividad se desarrollan los siguientes aspectos:
 ## 🎥 Video de la actividad
 En este apartado se incluirá el enlace al video de presentación de la Tarea 3.1.
 
-**Enlace al video: (Agregar enlace de YouTube)**
+**Enlace al video: (https://youtu.be/4wMiadcS2NU)**
 
 ## 👨‍💻 Autor
 Estudiante de la asignatura de Fundamentos de Bases de Datos.
