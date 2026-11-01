@@ -53,10 +53,10 @@ Los archivos de esta actividad se organizarán de la siguiente manera:
 
 - [Consultar la carpeta de documentos PDF](./PDF/Reporte_Tecnico_Tarea_3_2.pdf)
 
-### 📊 Diagrama del esquema físico
+## 📊 Diagrama del esquema físico
 
-- [Abrir diagrama editable (.drawio)](./Diagrama/Esquema%20Fisico.drawio)
-- [Ver diagrama en formato (.svg)](./Diagrama/Esquema%20Fisico.svg)
+- [Abrir archivo editable de Draw.io](./Diagrama/Esquema%20Fisico.drawio)
+- [Visualizar esquema físico en SVG](./Diagrama/Esquema%20Fisico.svg)
 
 ![Esquema físico de TechMarket Express](./Diagrama/Esquema%20Fisico.svg)
 
