@@ -55,7 +55,8 @@ Los archivos de esta actividad se organizarán de la siguiente manera:
 
 ### 📊 Diagrama del esquema físico
 
-- [Consultar la carpeta de diagramas](./Diagramas/)
+- [Esquema Fisico (.drawio)](./Diagramas/Esquema_isico.drawio)
+- [Esquema Fisico (.svg)](./Diagramas/Esquema_isico.svg)
 
 ### 📸 Evidencias de ejecución
 
