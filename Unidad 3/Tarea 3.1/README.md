@@ -32,12 +32,15 @@ En esta actividad se desarrollan los siguientes aspectos:
 
 ## 📊 Diagramas del esquema relacional
 
-El esquema relacional de **TechMarket Express** se encuentra disponible en los siguientes formatos:
+El esquema relacional de **TechMarket Express** está disponible en los siguientes formatos:
 
-- **[Diagrama editable (.drawio)](./Esquema_Relacional_Tarea_3_1.drawio)**
-- **[Diagrama exportado (.svg)](./Esquema_Relacional_Tarea_3_1.svg)**
-
+- **[Diagrama editable (.drawio)](./Diagramas/Esquema%20Relacional.drawio)**
+-  
+- **[Diagrama en formato SVG (.svg)](./Diagramas/Esquema%20Relacional.svg)**
+  
 ### Contenido del diagrama
+
+El esquema presenta las tablas de la base de datos, sus atributos, las claves primarias (PK), las claves foráneas (FK) y las relaciones entre ellas.
 
 El diagrama representa las tablas del modelo relacional, sus atributos, las claves primarias (PK), las claves foráneas (FK) y las relaciones entre las entidades.
 ## 🎥 Video de la actividad
