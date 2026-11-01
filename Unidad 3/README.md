@@ -9,8 +9,8 @@ Conocer y aplicar el modelo relacional para la generación de esquemas de base d
 ## 📂 Contenido de la unidad
 En este repositorio se encuentran los materiales, diagramas y documentos correspondientes a las actividades de la Unidad 3.
 
-- **Tarea 3.1:** Transformación de Modelo E-R a Esquema Relacional y Reglas de Integridad.(./Tarea%203.1)
-- **Tarea 3.2:** Generación del esquema físico en SGBD y script LDD.
+- **[Tarea 3.1: Transformación de Modelo E-R a Esquema Relacional y Reglas de Integridad](./Tarea%203.1/README.md)**
+- **[Tarea 3.2: Generación del esquema físico en SGBD y script LDD](./Tarea%203.2/README.md)**
 
 ## 🛠️ Herramientas utilizadas
 - **Draw.io:** Elaboración y edición de diagramas.
