@@ -55,8 +55,14 @@ Los archivos de esta actividad se organizarán de la siguiente manera:
 
 ### 📊 Diagrama del esquema físico
 
-- [Esquema Fisico (.drawio)](./Diagramas/Esquema_Fisico.drawio)
-- [Esquema Fisico (.svg)](./Diagramas/Esquema_Fisico.svg)
+El esquema físico de la base de datos de TechMarket Express está disponible en los siguientes formatos:
+
+- **[Diagrama editable (.drawio)](./Diagramas/Esquema%20Fisico.drawio)** — Permite abrir y editar el diagrama en Draw.io.
+- **[Diagrama en formato SVG (.svg)](./Diagramas/Esquema%20Fisico.svg)** — Permite visualizar el esquema como imagen.
+
+Para visualizar el diagrama directamente en GitHub:
+
+![Esquema físico de TechMarket Express](./Diagramas/Esquema%20Fisico.svg)
 
 ### 📸 Evidencias de ejecución
 
