@@ -27,7 +27,7 @@ Representar el modelo conceptual de una base de datos mediante la notación UML,
 📄 [Reporte técnico de la Tarea 2.2 en PDF](./PDF/Reporte_Tecnico_Tarea_2_2.pdf)
 
 ## 🎥 Video explicativo
-- ▶️ [Ver video en YouTube](PEGA_AQUI_EL_ENLACE_DE_TU_VIDEO)
+- ▶️ [Ver video en YouTube]([PEGA_AQUI_EL_ENLACE_DE_TU_VIDEO](https://youtu.be/LUHpytrry1E))
 
 ## 🛠️ Herramientas utilizadas
 - **Draw.io:** Diseño y edición de diagramas UML.
