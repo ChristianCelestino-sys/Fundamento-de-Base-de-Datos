@@ -51,7 +51,7 @@ Los archivos de esta actividad se organizarán de la siguiente manera:
 
 ### 📄 Reporte PDF
 
-- [Consultar la carpeta de documentos PDF](./PDF/)
+- [Consultar la carpeta de documentos PDF](./PDF/Reporte_Tecnico_Tarea_3_2.pdf)
 
 ### 📊 Diagrama del esquema físico
 
