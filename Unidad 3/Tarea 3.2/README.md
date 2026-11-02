@@ -65,7 +65,7 @@ Los archivos de esta actividad se organizarán de la siguiente manera:
 
 ### 📸 Evidencias de ejecución
 
-- [Consultar la carpeta de evidencias](./Evidencias/)
+- [Consultar la carpeta de evidencias](./Evidencia/Ejecucion.png)
 
 ## 🎥 Video de exposición
 
