@@ -33,7 +33,7 @@ En esta carpeta se encuentran los documentos y recursos correspondientes a la Ta
 
 ## 📁 Archivos de la actividad
 - [Reporte técnico PDF](./PDF/Reporte_Tecnico_Tarea_4_1.pdf)
-- [Mapa conceptual editable](./Diagrama/Mapa_Conceptual_Formas_Normales.drawio)
+- [Mapa conceptual Drawio](./Diagrama/Mapa_Conceptual_Formas_Normales.drawio)
 - [Mapa conceptual SVG](./Diagrama/Mapa_Conceptual_Formas_Normales.svg)
 
 ## 📖 Referencias bibliográficas
