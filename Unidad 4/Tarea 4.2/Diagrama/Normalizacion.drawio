@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="N7ZgpBI-g2GplQsEPJDB">
+    <mxGraphModel dx="2000" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="titulo" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=24;fontStyle=1;fontColor=#17365D;" value="TAREA 4.2: PROCESO DE NORMALIZACION&#xa;TECHMARKET EXPRESS" vertex="1">
+          <mxGeometry height="70" width="900" x="250" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="objetivo" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=15;spacing=10;" value="OBJETIVO&#xa;Transformar una estructura con redundancias en un esquema organizado, reduciendo anomalías y preservando la integridad de los datos." vertex="1">
+          <mxGeometry height="80" width="900" x="250" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="desnormalizada" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;fontSize=14;spacing=10;" value="ESTADO DESNORMALIZADO (0FN)&#xa;&#xa;La información de clientes, pedidos y productos puede estar mezclada.&#xa;Existen grupos repetitivos y posibles redundancias." vertex="1">
+          <mxGeometry height="105" width="700" x="350" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="fn1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=14;spacing=10;" value="PRIMERA FORMA NORMAL (1FN)&#xa;&#xa;Cada atributo contiene un valor atómico.&#xa;Se eliminan grupos repetitivos y se identifican los registros." vertex="1">
+          <mxGeometry height="100" width="700" x="350" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="fn2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontSize=14;spacing=10;" value="SEGUNDA FORMA NORMAL (2FN)&#xa;&#xa;Se eliminan dependencias funcionales parciales.&#xa;Cada atributo no primo depende de la clave completa." vertex="1">
+          <mxGeometry height="100" width="700" x="350" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="fn3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=14;spacing=10;" value="TERCERA FORMA NORMAL (3FN)&#xa;&#xa;Se eliminan dependencias transitivas indebidas.&#xa;Los atributos no primos dependen de la clave y no de otros atributos no clave." vertex="1">
+          <mxGeometry height="100" width="700" x="350" y="655" as="geometry" />
+        </mxCell>
+        <mxCell id="fnbc" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=14;spacing=10;" value="VALIDACION DE FORMA NORMAL DE BOYCE-CODD (FNBC)&#xa;&#xa;Se comprueba que todo determinante de una dependencia funcional sea una superclave.&#xa;Si no se cumple, se analiza una descomposicion adecuada." vertex="1">
+          <mxGeometry height="100" width="700" x="350" y="795" as="geometry" />
+        </mxCell>
+        <mxCell id="resultado" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#388E3C;fontSize=16;fontStyle=1;spacing=12;" value="RESULTADO FINAL&#xa;Esquema relacional normalizado, con tablas relacionadas mediante claves primarias y foraneas, menor redundancia y mejor integridad de la informacion." vertex="1">
+          <mxGeometry height="65" width="900" x="250" y="925" as="geometry" />
+        </mxCell>
+        <mxCell id="f1" edge="1" parent="1" source="objetivo" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;" target="desnormalizada">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f2" edge="1" parent="1" source="desnormalizada" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;" target="fn1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f3" edge="1" parent="1" source="fn1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;" target="fn2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4" edge="1" parent="1" source="fn2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;" target="fn3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f5" edge="1" parent="1" source="fn3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;" target="fnbc">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6" edge="1" parent="1" source="fnbc" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;" target="resultado">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
