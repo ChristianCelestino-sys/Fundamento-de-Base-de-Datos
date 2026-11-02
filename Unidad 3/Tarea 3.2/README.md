@@ -63,7 +63,6 @@ Los archivos de esta actividad se organizarán de la siguiente manera:
 
 [🖼️ Ver diagrama del esquema físico (.svg)](./Diragrama/Esquema_Fisico.svg)
 
-![c](./Diagrama/Esquema_Fisico.svg)
 ### 📸 Evidencias de ejecución
 
 - [Consultar la carpeta de evidencias](./Evidencias/)
