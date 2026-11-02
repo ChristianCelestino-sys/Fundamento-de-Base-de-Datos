@@ -43,10 +43,10 @@ El esquema relacional de **TechMarket Express** está disponible en los siguient
 - **[Diagrama editable (.drawio)](./Diagramas/Esquema%20Relacional.drawio)**
 - **[Diagrama en formato SVG (.svg)](./Diagramas/Esquema%20Relacional.svg)**
 
-### 📁 Archivos del diagrama
+## 📊 Diagrama Entidad-Relación
 
-- **[Abrir diagrama editable en Draw.io](./Diagramas/Diagrama_ER_TechMarket.drawio)**
-- **[Ver diagrama en formato SVG](./Diagramas/Diagrama_ER_TechMarket.svg)**
+- [Abrir diagrama editable (.drawio)](./Diagramas/Diagrama_ER_TechMarket.drawio)
+- [Ver diagrama (.svg)](./Diagramas/Diagrama_ER_TechMarket.svg)
   
 ### Contenido del diagrama
 
