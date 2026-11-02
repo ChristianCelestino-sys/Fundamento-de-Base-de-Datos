@@ -55,7 +55,7 @@ Los archivos de esta actividad se organizarán de la siguiente manera:
 
 ## 📊 Diagrama del esquema físico
 
-- [Abrir archivo editable de Drawio](./Diagrama/Esquema_Fisico.drawio)
+- [Abrir archivo editable de Drawio](./Diagrama/Esquema%20Fisico.drawio)
 - [Visualizar esquema físico en SVG](./Diagrama/Esquema%20Fisico.svg)
 
 ![Esquema físico de TechMarket Express](./Diagrama/Esquema%20Fisico.svg)
