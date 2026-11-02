@@ -57,7 +57,7 @@ Los archivos de esta actividad se organizarán de la siguiente manera:
 
 ### Diagrama editable de Draw.io
 
-[📂 Abrir o editar el diagrama (.drawio)](./Diagrama/Esquema%20Fisico.drawio)
+[📂 Abrir o editar el diagrama (.drawio)](./Diagrama/Esquema_Fisico.drawio)
 
 ### Diagrama en formato SVG
 
