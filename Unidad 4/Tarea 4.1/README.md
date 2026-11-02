@@ -33,8 +33,8 @@ En esta carpeta se encuentran los documentos y recursos correspondientes a la Ta
 
 ## 📁 Archivos de la actividad
 - [Reporte técnico PDF](./PDF/Reporte_Tecnico_Tarea_4_1.pdf)
-- [Mapa conceptual editable (.drawio)](./Diagrama/Mapa%20conceptual.drawio)
-- [Mapa conceptual en formato SVG (.svg)](./Diagrama/Mapa%20conceptual.svg)
+- [Mapa conceptual (.drawio)](./Diagrama/Mapa%20conceptual.drawio)
+- [Mapa conceptual (.svg)](./Diagrama/Mapa%20conceptual.svg)
 
 ## 📖 Referencias bibliográficas
 - Codd, E. F. (1970). A relational model of data for large shared data banks. *Communications of the ACM, 13*(6), 377–387. https://doi.org/10.1145/362384.362685
