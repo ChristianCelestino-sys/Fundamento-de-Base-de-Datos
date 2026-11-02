@@ -36,6 +36,12 @@ En esta carpeta se encuentran los documentos y recursos correspondientes a la Ta
 - [Mapa conceptual (.drawio)](./Diagrama/Mapa%20conceptual.drawio)
 - [Mapa conceptual (.svg)](./Diagrama/Mapa%20conceptual.svg)
 
+## 🎥 Video de exposición
+
+En el siguiente video se explican los fundamentos de la normalización de bases de datos, las dependencias funcionales, las anomalías de actualización y las condiciones necesarias para alcanzar las diferentes formas normales.
+
+- **Video de YouTube:** [Ver exposición de la Tarea 4.1](PEGA_AQUI_EL_ENLACE_DE_YOUTUBE)
+
 ## 📖 Referencias bibliográficas
 - Codd, E. F. (1970). A relational model of data for large shared data banks. *Communications of the ACM, 13*(6), 377–387. https://doi.org/10.1145/362384.362685
 - Date, C. J. (2003). *An introduction to database systems* (8th ed.). Addison-Wesley.
