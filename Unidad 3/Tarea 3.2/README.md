@@ -69,7 +69,7 @@ Los archivos de esta actividad se organizarán de la siguiente manera:
 
 ## 🎥 Video de exposición
 
-**Enlace al video de YouTube:** [Agregar aquí el enlace del video](#)
+**Enlace al video de YouTube:** (https://youtu.be/fHK_QBlebng)]
 
 En el video se explicará el proceso de creación del esquema físico, la ejecución del script SQL y la comprobación de las restricciones de integridad implementadas. La exposición deberá cumplir con los requisitos establecidos para la actividad, incluida la visualización de la cámara web.
 
