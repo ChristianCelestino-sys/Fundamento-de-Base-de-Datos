@@ -55,15 +55,10 @@ Los archivos de esta actividad se organizarán de la siguiente manera:
 
 ## Diagramas del esquema físico
 
-### Diagrama editable de Draw.io
+- [Abrir diagrama editable de Draw.io](./Diagrama/Esquema_Fisico.drawio)
+- [Ver diagrama en formato SVG](./Diagrama/Esquema_Fisico.svg)
 
-[📂 Abrir o editar el diagrama (.drawio)](./Diagrama/Esquema_Fisico.drawio)
-
-### Diagrama en formato SVG
-
-[🖼️ Ver diagrama del esquema físico (.svg)](./Diagrama/Esquema%20Fisico.svg)
-
-![Esquema físico de la base de datos TechMarket Express](./Diagrama/Esquema%20Fisico.svg)
+![Diagrama del esquema físico de TechMarket Express](./Diagrama/Esquema_Fisico.svg)
 
 ### 📸 Evidencias de ejecución
 
