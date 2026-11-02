@@ -1,26 +1,26 @@
-# 📚 Unidad 4: Normalización de bases de datos
+# 📚 Unidad 3: Modelo relacional
 
 ## 📌 Descripción
-En esta unidad se estudia el proceso de normalización de bases de datos, las dependencias funcionales y las anomalías que pueden presentarse al insertar, eliminar o modificar información. Se abordan las diferentes formas normales para mejorar la organización de los datos, reducir redundancias y garantizar la integridad de la información.
+En esta unidad se estudia el modelo relacional de bases de datos, su estructura y las reglas de integridad necesarias para organizar la información. Se aborda la transformación del modelo Entidad-Relación (E-R) a un esquema relacional y la generación del esquema físico mediante un Sistema Gestor de Bases de Datos (SGBD).
 
 ## 🎯 Competencia
-Aplica el proceso de normalización al diseño de los esquemas de bases de datos para detectar anomalías y garantizar la integridad de la información.
+Conocer y aplicar el modelo relacional para la generación de esquemas de base de datos con el fin de organizar la información y atender necesidades del entorno.
 
 ## 📂 Contenido de la unidad
-En este repositorio se encuentran los materiales, diagramas y documentos correspondientes a las actividades de la Unidad 4.
+En este repositorio se encuentran los materiales, diagramas y documentos correspondientes a las actividades de la Unidad 3.
 
-- **[Tarea 4.1: Fundamentos de dependencias y mapa conceptual de formas normales](./Tarea%204.1/README.md)**
-- **[Tarea 4.2: Proceso paso a paso de normalización del proyecto aplicado](./Tarea%204.2/README.md)**
+- **[Tarea 3.1: Transformación de Modelo E-R a Esquema Relacional y Reglas de Integridad](./Tarea%203.1/README.md)**
+- **[Tarea 3.2: Generación del esquema físico en SGBD y script LDD](./Tarea%203.2/README.md)**
 
 ## 🛠️ Herramientas utilizadas
-- **Draw.io:** Elaboración y edición de mapas conceptuales y diagramas.
+- **Draw.io:** Elaboración y edición de diagramas.
 - **GitHub:** Almacenamiento y organización de archivos del proyecto.
-- **PDF:** Presentación de reportes teóricos y documentación técnica.
-- **SQL:** Creación y actualización de esquemas de bases de datos normalizados.
-- **SGBD:** Implementación y validación de los esquemas de bases de datos.
+- **PDF:** Presentación de reportes técnicos y documentación.
+- **SQL:** Creación y definición de estructuras de bases de datos.
+- **SGBD:** Implementación y validación del esquema físico de la base de datos.
 
 ## 👨‍💻 Autor
-Christian Iván Celestino Chávez.
+Christian Iván Celestino Celestino Chávez
 
 ## 📄 Licencia
 Este repositorio tiene fines académicos y educativos.
