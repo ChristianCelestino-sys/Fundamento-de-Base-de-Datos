@@ -61,7 +61,7 @@ Los archivos de esta actividad se organizarán de la siguiente manera:
 
 ### Diagrama en formato SVG
 
-[🖼️ Ver diagrama del esquema físico (.svg)](./Diagrama/Esquema_Fisico.svg)
+[🖼️ Ver diagrama del esquema físico (.svg)](./Diragrama/Esquema_Fisico.svg)
 
 ![Esquema físico de la base de datos TechMarket Express](./Diagrama/Esquema_Fisico.svg)
 ### 📸 Evidencias de ejecución
