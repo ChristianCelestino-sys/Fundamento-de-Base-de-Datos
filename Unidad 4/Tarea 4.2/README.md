@@ -39,7 +39,7 @@ Se revisan las dependencias funcionales para determinar si cada determinante es 
 
 ## 🗂️ Archivos del proyecto
 
-- **[Reporte técnico en PDF](./PDF/Reporte_Normalizacion.pdf)**
+- **[Reporte técnico en PDF](./PDF/Reporte_Tecnico_Tarea_4_2.pdf)**
 - **[Diagrama del proceso de normalización](./Diagrama/Normalizacion.drawio)**
 - **[Diagrama exportado en SVG](./Diagrama/Normalizacion.svg)**
 - **[Script SQL normalizado](./SQL/normalized_schema.sql)**
