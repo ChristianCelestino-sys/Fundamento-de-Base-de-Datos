@@ -9,7 +9,7 @@ Aplica el proceso de normalización al diseño de los esquemas de bases de datos
 ## 📂 Contenido de la unidad
 En este repositorio se encuentran los materiales, diagramas y documentos correspondientes a las actividades de la Unidad 4.
 
-- **[Tarea 4.1: Fundamentos de dependencias y mapa conceptual de formas normales](./Tarea%204_1/README.md)**
+- **[Tarea 4.1: Fundamentos de dependencias y mapa conceptual de formas normales](./Tarea%204.1/README.md)**
 - **[Tarea 4.2: Proceso paso a paso de normalización del proyecto aplicado](./Tarea%204.2/README.md)**
 
 ## 🛠️ Herramientas utilizadas
