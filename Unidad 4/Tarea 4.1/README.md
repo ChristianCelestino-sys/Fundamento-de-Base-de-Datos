@@ -33,7 +33,7 @@ En esta carpeta se encuentran los documentos y recursos correspondientes a la Ta
 
 ## 📁 Archivos de la actividad
 - [Reporte técnico PDF](./PDF/Reporte_Tecnico_Tarea_4_1.pdf)
-- [Mapa conceptual Drawio](./Diagrama/Mapa_Conceptual.drawio)
+- [Mapa conceptual Drawio](./Diagrama/Mapa%20Conceptual.drawio)
 - [Mapa conceptual SVG](./Diagrama/Mapa_Conceptual.svg)
 
 ## 📖 Referencias bibliográficas
