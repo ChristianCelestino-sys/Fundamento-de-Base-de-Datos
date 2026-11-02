@@ -57,7 +57,7 @@ El diagrama representa las tablas del modelo relacional, sus atributos, las clav
 ## 🎥 Video de la actividad
 En este apartado se incluirá el enlace al video de presentación de la Tarea 3.1.
 
-**Enlace al video: (https://youtu.be/4wMiadcS2NU)**
+**Enlace al video: (https://youtu.be/7BKwmr-nKXw)**
 
 ## 👨‍💻 Autor
 Christian Iván Celestino Chávez.
