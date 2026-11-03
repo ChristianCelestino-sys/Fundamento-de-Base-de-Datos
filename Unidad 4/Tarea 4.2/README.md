@@ -58,7 +58,7 @@ Se revisan las dependencias funcionales para determinar si cada determinante es 
 
 En el video se explica el proceso de normalización aplicado al proyecto TechMarket Express, desde la identificación de redundancias hasta la descomposición de las tablas y la generación del esquema SQL actualizado.
 
-- **[Ver exposición de la Tarea 4.2 en YouTube](PEGA_AQUI_EL_ENLACE_DE_YOUTUBE)**
+- **[Ver exposición de la Tarea 4.2 en YouTube](https://youtu.be/e_OFuBicGM4)**
 
 ## 👨‍💻 Autor
 
