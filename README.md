@@ -28,19 +28,11 @@ Desarrollo del diseño conceptual mediante el modelo Entidad-Relación y diagram
 
 Transformación del modelo Entidad-Relación a un esquema relacional, identificación de claves primarias y foráneas, aplicación de reglas de integridad y generación del esquema físico mediante SQL.
 
-**Actividades:**
-- [Tarea 3.1: Transformación de Modelo E-R a Esquema Relacional y Reglas de Integridad](./Unidad%203/Tarea%203.1/README.md)
-- [Tarea 3.2: Generación del esquema físico en SGBD y script LDD](./Unidad%203/Tarea%203.2/README.md)
-
 📁 [**Ir a la Unidad 3**](./Unidad%203/README.md)
 
 ### 📕 Unidad 4: Normalización de bases de datos
 
 Estudio de las dependencias funcionales, las anomalías de actualización y las formas normales. Aplicación del proceso de normalización al proyecto TechMarket Express para mejorar la organización y la integridad de la información.
-
-**Actividades:**
-- [Tarea 4.1: Fundamentos de dependencias y mapa conceptual de formas normales](./Unidad%204/Tarea%204.1/README.md)
-- [Tarea 4.2: Proceso paso a paso de normalización del proyecto aplicado](./Unidad%204/Tarea%204.2/README.md)
 
 📁 [**Ir a la Unidad 4**](./Unidad%204/README.md)
 
