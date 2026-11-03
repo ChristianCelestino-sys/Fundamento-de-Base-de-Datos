@@ -40,7 +40,7 @@ En esta carpeta se encuentran los documentos y recursos correspondientes a la Ta
 
 En el siguiente video se explican los fundamentos de la normalización de bases de datos, las dependencias funcionales, las anomalías de actualización y las condiciones necesarias para alcanzar las diferentes formas normales.
 
-- **Video de YouTube:** [Ver exposición de la Tarea 4.1](PEGA_AQUI_EL_ENLACE_DE_YOUTUBE)
+- **Video de YouTube:** [Ver exposición de la Tarea 4.1](https://youtu.be/p7vsfGt2DZc)
 
 ## 📖 Referencias bibliográficas
 - Codd, E. F. (1970). A relational model of data for large shared data banks. *Communications of the ACM, 13*(6), 377–387. https://doi.org/10.1145/362384.362685
