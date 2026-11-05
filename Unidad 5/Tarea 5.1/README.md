@@ -34,7 +34,7 @@ En esta carpeta se encuentran los materiales, diagramas y documentos correspondi
 
 Aquí se encuentra el documento con el desarrollo teórico y los ejemplos de la actividad.
 
-- **[Abrir documento PDF](./PDF/Tarea_5_1_Algebra_Relacional.pdf)**
+- **[Abrir documento PDF](./PDF/Reporte_Tecnico_Tarea_5_1.pdf)**
 
 ## 📊 Diagrama de operadores del álgebra relacional
 
