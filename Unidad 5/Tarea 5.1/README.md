@@ -40,8 +40,8 @@ Aquí se encuentra el documento con el desarrollo teórico y los ejemplos de la 
 
 El siguiente diagrama presenta los principales operadores fundamentales y extendidos del álgebra relacional.
 
-- **[Abrir diagrama editable (.drawio)](./Diagrama/Operadores_Algebra_Relacional.drawio)**
-- **[Ver diagrama en formato SVG (.svg)](./Diagrama/Operadores_Algebra_Relacional.svg)**
+- **[Abrir diagrama editable (.drawio)](./Diagrama/Mapa_conceptual_de_operadores.drawio)**
+- **[Ver diagrama en formato SVG (.svg)](./Diagrama/Mapa_conceptual_de_operadores.svg)**
 
 ![Diagrama de operadores del álgebra relacional](./Diagrama/Operadores_Algebra_Relacional.svg)
 
